@@ -1,0 +1,4233 @@
+@prefix RDFLABEL: <http://www.w3.org/2000/01/rdf-schema#label> .
+@prefix SO:    <http://dblp.org/ontology#> .
+@prefix SR:    <http://dblp.org/resource#> .
+
+SR:article3708150  a   SR:Article ;
+        SO:has_author  "Doowon Lee" ;
+        SO:has_id      "3708150" ;
+        SO:has_title   "Automated Consistency and Completeness Checking of Testing Models for Interactive Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2004" .
+
+SR:article1970304  a   SR:Article ;
+        SO:has_author  "Davide Andreoletti" ;
+        SO:has_id      "1970304" ;
+        SO:has_title   "Designing flexible access control models for the cloud." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SIN" ;
+        SO:has_year    "2013" .
+
+SR:article2819084  a   SR:Article ;
+        SO:has_author  "Michaël Lauer" ;
+        SO:has_id      "2819084" ;
+        SO:has_title   "A Method for Modeling and Analyzing Fault-Tolerant Service Composition." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2009" .
+
+SR:article2425330  a   SR:Article ;
+        SO:has_author  "Sameer Sahasrabuddhe" ;
+        SO:has_id      "2425330" ;
+        SO:has_title   "Fine-Tuning Model Transformation - Change Propagation in Context of Consistency, Completeness, and Human Guidance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICMT" ;
+        SO:has_year    "2011" .
+
+SR:article3584506  a   SR:Article ;
+        SO:has_author  "Bin Zhang 0003" ;
+        SO:has_id      "3584506" ;
+        SO:has_title   "Linear Randomized Voting Algorithm for Fault Tolerant Sensor Fusion and the Corresponding Reliability Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2005" .
+
+SR:article777670  a    SR:Article ;
+        SO:has_author  "Gerald Holl" ;
+        SO:has_id      "777670" ;
+        SO:has_title   "MTraceCheck - Validating Non-Deterministic Behavior of Memory Consistency Models in Post-Silicon Validation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISCA" ;
+        SO:has_year    "2017" .
+
+SR:article3293827  a   SR:Article ;
+        SO:has_author  "Ragnhild Van Der Straeten" ;
+        SO:has_id      "3293827" ;
+        SO:has_title   "Improving Inconsistency Resolution with Side-Effect Evaluation and Costs." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2007" .
+
+SR:article2225163  a   SR:Article ;
+        SO:has_author  "Mauricio D. Gutierrez" ;
+        SO:has_id      "2225163" ;
+        SO:has_title   "A Petri Net Model for Secure and Fault-Tolerant Cloud-Based Information Storage." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2012" .
+
+SR:article3226909  a   SR:Article ;
+        SO:has_author  "Soontaree Tanaraksiritavorn" ;
+        SO:has_id      "3226909" ;
+        SO:has_title   "Flexible intrusion tolerant voting architecture." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "STC" ;
+        SO:has_year    "2007" .
+
+SR:article1579227  a   SR:Article ;
+        SO:has_author  "Christopher Wolfe" ;
+        SO:has_id      "1579227" ;
+        SO:has_title   "Efficiently and Completely Verifying Synchronized Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ATVA" ;
+        SO:has_year    "2014" .
+
+SR:article709375  a    SR:Article ;
+        SO:has_author  "Alfonso Pierantonio" ;
+        SO:has_id      "709375" ;
+        SO:has_title   "A Modeling Approach for Flexible Workflow Applications of Cloud Services." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2017" .
+
+SR:article689294  a    SR:Article ;
+        SO:has_author  "Betty H. C. Cheng" ;
+        SO:has_id      "689294" ;
+        SO:has_title   "From Abstract to Concrete Repairs of Model Inconsistencies - An Automated Approach." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2017" .
+
+SR:article2604034  a   SR:Article ;
+        SO:has_author  "Aren A. Babikian" ;
+        SO:has_id      "2604034" ;
+        SO:has_title   "On Constructing Thermodynamically Consistent Parametrizations of Kinetic Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "BIBE" ;
+        SO:has_year    "2010" .
+
+SR:article1645915  a   SR:Article ;
+        SO:has_author  "Barbara Gallina" ;
+        SO:has_id      "1645915" ;
+        SO:has_title   "Controlled modeling environment using flexibly-formatted spreadsheets." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2014" .
+
+SR:article3214905  a   SR:Article ;
+        SO:has_author  "Yunxiang Liu" ;
+        SO:has_id      "3214905" ;
+        SO:has_title   "Fault-Tolerant Semi-Passive Coordination Protocol for a Multi-Actuator/Multi-Sensor (MAMS) Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2007" .
+
+SR:article3408007  a   SR:Article ;
+        SO:has_author  "András Szabolcs Nagy" ;
+        SO:has_id      "3408007" ;
+        SO:has_title   "Ontology-Based RFID System Model for Supporting Semantic Consistency in Ubiquitous Environment." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CIS" ;
+        SO:has_year    "2006" .
+
+SR:article1000899  a   SR:Article ;
+        SO:has_author  "Sébastien Gérard" ;
+        SO:has_id      "1000899" ;
+        SO:has_title   "Specifying and Checking File System Crash-Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASPLOS" ;
+        SO:has_year    "2016" .
+
+SR:article797021  a    SR:Article ;
+        SO:has_author  "Jean-Marc Jézéquel" ;
+        SO:has_id      "797021" ;
+        SO:has_title   "The Conformance Relation Challenge - Building Flexible Modelling Frameworks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article2666261  a   SR:Article ;
+        SO:has_author  "Azalea Raad" ;
+        SO:has_id      "2666261" ;
+        SO:has_title   "A self-consistent model to estimate NBTI degradation and a comprehensive on-line system lifetime enhancement technique." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "IOLTS" ;
+        SO:has_year    "2010" .
+
+SR:article1963556  a   SR:Article ;
+        SO:has_author  "Federica Freschi" ;
+        SO:has_id      "1963556" ;
+        SO:has_title   "A flexible framework for modeling and simulation of multipurpose wireless networks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RSP" ;
+        SO:has_year    "2013" .
+
+SR:article467246  a    SR:Article ;
+        SO:has_author  "Jacques Klein" ;
+        SO:has_id      "467246" ;
+        SO:has_title   "On the Quest for Flexible Modelling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2018" .
+
+SR:article4286426  a   SR:Article ;
+        SO:has_author  "Gintautas Sulskus" ;
+        SO:has_id      "4286426" ;
+        SO:has_title   "Model Checking and Fault Tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "AMAST" ;
+        SO:has_year    "1997" .
+
+SR:article3317904  a   SR:Article ;
+        SO:has_author  "Slinger Jansen" ;
+        SO:has_id      "3317904" ;
+        SO:has_title   "A Study of Consistent and Inconsistent Changes to Code Clones." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "WCRE" ;
+        SO:has_year    "2007" .
+
+SR:article1080091  a   SR:Article ;
+        SO:has_author  "Ilina Stoilkovska" ;
+        SO:has_id      "1080091" ;
+        SO:has_title   "Susceptible workload driven selective fault tolerance using a probabilistic fault model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "IOLTS" ;
+        SO:has_year    "2016" .
+
+SR:article392732  a    SR:Article ;
+        SO:has_author  "Michael Vierhauser" ;
+        SO:has_id      "392732" ;
+        SO:has_title   "A MDE Approach for Heterogeneous Models Consistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ENASE" ;
+        SO:has_year    "2018" .
+
+SR:article3249865  a   SR:Article ;
+        SO:has_author  "Bechir Zalila" ;
+        SO:has_id      "3249865" ;
+        SO:has_title   "Preliminary Models of the Cost of Fault Tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2007" .
+
+SR:article3744320  a   SR:Article ;
+        SO:has_author  "Swarnendu Biswas" ;
+        SO:has_id      "3744320" ;
+        SO:has_title   "TSOtool - A Program for Verifying Memory Systems Using the Memory Consistency Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISCA" ;
+        SO:has_year    "2004" .
+
+SR:article3301052  a   SR:Article ;
+        SO:has_author  "Werner Retschitzegger" ;
+        SO:has_id      "3301052" ;
+        SO:has_title   "Consistency Checking of Conceptual Models via Model Merging." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RE" ;
+        SO:has_year    "2007" .
+
+SR:article786949  a    SR:Article ;
+        SO:has_author  "Daniela Lettner" ;
+        SO:has_id      "786949" ;
+        SO:has_title   "Avoiding consistency exceptions under strong memory models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISMM" ;
+        SO:has_year    "2017" .
+
+SR:article2685116  a   SR:Article ;
+        SO:has_author  "Alfonso Pierantonio" ;
+        SO:has_id      "2685116" ;
+        SO:has_title   "Consistent Modeling Using Multiple UML Profiles." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article2387277  a   SR:Article ;
+        SO:has_author  "Tom J. Kazmierski" ;
+        SO:has_id      "2387277" ;
+        SO:has_title   "Efficient model checking of fault-tolerant distributed protocols." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2011" .
+
+SR:article2210672  a   SR:Article ;
+        SO:has_author  "Yihan Wu" ;
+        SO:has_id      "2210672" ;
+        SO:has_title   "Model Driven Configuration of Fault Tolerance Solutions for Component-Based Software System." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article1117278  a   SR:Article ;
+        SO:has_author  "Josef Widder" ;
+        SO:has_id      "1117278" ;
+        SO:has_title   "Modeling and analyzing cost-aware fault tolerant strategy for cloud application." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2016" .
+
+SR:article1879957  a   SR:Article ;
+        SO:has_author  "Stefan Jurack" ;
+        SO:has_id      "1879957" ;
+        SO:has_title   "Supporting Consistency between Architectural Design Decisions and Component Models through Reusable Architectural Knowledge Transformations." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ECSA" ;
+        SO:has_year    "2013" .
+
+SR:article453064  a    SR:Article ;
+        SO:has_author  "Rick Salay" ;
+        SO:has_id      "453064" ;
+        SO:has_title   "Online Model-Based Testing under Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2018" .
+
+SR:article2397483  a   SR:Article ;
+        SO:has_author  "Daniel Lustig" ;
+        SO:has_id      "2397483" ;
+        SO:has_title   "Modeling with Plausibility Checking - Inspecting Favorable and Critical Signs for Consistency between Control Flow and Functional Behavior." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2011" .
+
+SR:article796996  a    SR:Article ;
+        SO:has_author  "Bart Meyers" ;
+        SO:has_id      "796996" ;
+        SO:has_title   "Using Models at Run Time to Detect Incomplete and Inconsistent Requirements." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article467333  a    SR:Article ;
+        SO:has_author  "Marco Brambilla 0001" ;
+        SO:has_id      "467333" ;
+        SO:has_title   "Towards sound, optimal, and flexible building from megamodels." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2018" .
+
+SR:article141465  a    SR:Article ;
+        SO:has_author  "Johannes Schönböck" ;
+        SO:has_id      "141465" ;
+        SO:has_title   "Viatra solver - a framework for the automated generation of consistent domain-specific models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2019" .
+
+SR:article3708161  a   SR:Article ;
+        SO:has_author  "Valeria Bertacco" ;
+        SO:has_id      "3708161" ;
+        SO:has_title   "Consistency Check in Modelling Multi-Agent Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2004" .
+
+SR:article709399  a    SR:Article ;
+        SO:has_author  "Gianni Rosa" ;
+        SO:has_id      "709399" ;
+        SO:has_title   "From Sequence Diagrams to Event B - A Specification and Verification Approach of Flexible Workflow Applications of Cloud Services Based on Meta-model Transformation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2017" .
+
+SR:article1692437  a   SR:Article ;
+        SO:has_author  "Peter Popov" ;
+        SO:has_id      "1692437" ;
+        SO:has_title   "A Formal Model for Constraint-Based Deployment Calculation and Analysis for Fault-Tolerant Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEFM" ;
+        SO:has_year    "2014" .
+
+SR:article1921518  a   SR:Article ;
+        SO:has_author  "Perdita Stevens" ;
+        SO:has_id      "1921518" ;
+        SO:has_title   "Modes, features, and state-based modeling for clarity and flexibility." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MiSE" ;
+        SO:has_year    "2013" .
+
+SR:article158379  a    SR:Article ;
+        SO:has_author  "Alexander Reder" ;
+        SO:has_id      "158379" ;
+        SO:has_title   "Model checking for weakly consistent libraries." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "PLDI" ;
+        SO:has_year    "2019" .
+
+SR:article3268995  a   SR:Article ;
+        SO:has_author  "Tom Mens" ;
+        SO:has_id      "3268995" ;
+        SO:has_title   "Fixing Inconsistencies in UML Design Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2007" .
+
+SR:article2221749  a   SR:Article ;
+        SO:has_author  "Sotirios Liaskos" ;
+        SO:has_id      "2221749" ;
+        SO:has_title   "Maximal Causal Models for Sequentially Consistent Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RV" ;
+        SO:has_year    "2012" .
+
+SR:article1421088  a   SR:Article ;
+        SO:has_author  "Bernhard Peischl" ;
+        SO:has_id      "1421088" ;
+        SO:has_title   "Checking UML and OCL Model Consistency - An Experience Report on a Middle-Sized Case Study." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TAP" ;
+        SO:has_year    "2015" .
+
+SR:article3400188  a   SR:Article ;
+        SO:has_author  "Klaus Becker 0001" ;
+        SO:has_id      "3400188" ;
+        SO:has_title   "Modeling and Customization of Fault Tolerant Architecture using Object-Z/XVCL." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2006" .
+
+SR:article3630092  a   SR:Article ;
+        SO:has_author  "Andy Schürr" ;
+        SO:has_id      "3630092" ;
+        SO:has_title   "Loosely-coupled Consistency between Agent-oriented Conceptual Models and Z Specifications." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2005" .
+
+SR:article1612868  a   SR:Article ;
+        SO:has_author  "Perdita Stevens" ;
+        SO:has_id      "1612868" ;
+        SO:has_title   "Bidirectionally Tolerating Inconsistency - Partial Transformations." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2014" .
+
+SR:article2656638  a   SR:Article ;
+        SO:has_author  "Michalis Kokologiannakis" ;
+        SO:has_id      "2656638" ;
+        SO:has_title   "A proposal for consistency checking in dynamic software product line models using OCL." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2010" .
+
+SR:article431563  a    SR:Article ;
+        SO:has_author  "Michalis Famelis" ;
+        SO:has_id      "431563" ;
+        SO:has_title   "Uncovering Unknown System Behaviors in Uncertain Networks with Model and Search-Based Testing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICST" ;
+        SO:has_year    "2018" .
+
+SR:article2614918  a   SR:Article ;
+        SO:has_author  "Sebastian Pilarski" ;
+        SO:has_id      "2614918" ;
+        SO:has_title   "A Consistency Model for Identity Information in Distributed Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2010" .
+
+SR:article2178935  a   SR:Article ;
+        SO:has_author  "Alfonso Pierantonio" ;
+        SO:has_id      "2178935" ;
+        SO:has_title   "Partial models - Towards modeling and reasoning with uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2012" .
+
+SR:article3269265  a   SR:Article ;
+        SO:has_author  "Mahmoud Nassar" ;
+        SO:has_id      "3269265" ;
+        SO:has_title   "Formal Verification of Consistency between Feature Model and Software Architecture in Software Product Line." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSEA" ;
+        SO:has_year    "2007" .
+
+SR:article1397075  a   SR:Article ;
+        SO:has_author  "Davide Di Ruscio" ;
+        SO:has_id      "1397075" ;
+        SO:has_title   "Consistent co-evolution of models and transformations." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2015" .
+
+SR:article4187985  a   SR:Article ;
+        SO:has_author  "Eduardo Tavares" ;
+        SO:has_id      "4187985" ;
+        SO:has_title   "Combining Fault Avoidance, Fault Removal and Fault Tolerance - An Integrated Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "1999" .
+
+SR:article2627518  a   SR:Article ;
+        SO:has_author  "Dániel Varró" ;
+        SO:has_id      "2627518" ;
+        SO:has_title   "Proving Consistency and Completeness of Model Classes Using Theory Interpretation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2010" .
+
+SR:article2678180  a   SR:Article ;
+        SO:has_author  "Michael Vierhauser" , "Viktor Vafeiadis" ;
+        SO:has_id      "2678180" ;
+        SO:has_title   "Flexible and scalable consistency checking on product line variability models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2010" .
+
+SR:article710442  a    SR:Article ;
+        SO:has_author  "Eric Umuhoza" ;
+        SO:has_id      "710442" ;
+        SO:has_title   "An Optimization Model for 3D Pipe Routing with Flexibility Constraints." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CP" ;
+        SO:has_year    "2017" .
+
+SR:article1922364  a   SR:Article ;
+        SO:has_author  "Katharina Mehner" ;
+        SO:has_id      "1922364" ;
+        SO:has_title   "Validating Consistency between a Feature Model and Its Implementation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSR" ;
+        SO:has_year    "2013" .
+
+SR:article3708506  a   SR:Article ;
+        SO:has_author  "Minjia Zhang" ;
+        SO:has_id      "3708506" ;
+        SO:has_title   "Consistency and Random Constraint Satisfaction Models with a High Constraint Tightness." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CP" ;
+        SO:has_year    "2004" .
+
+SR:article4193088  a   SR:Article ;
+        SO:has_author  "Armin Zimmermann" ;
+        SO:has_id      "4193088" ;
+        SO:has_title   "Hierarchical Reliability and Safety Models of Fault Tolerant Distributed Industrial Control Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SAFECOMP" ;
+        SO:has_year    "1999" .
+
+SR:article1118219  a   SR:Article ;
+        SO:has_author  "Florian Zuleger" ;
+        SO:has_id      "1118219" ;
+        SO:has_title   "EMA2AOP - From the AADL Error Model Annex to aspect language towards fault tolerant systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SERA" ;
+        SO:has_year    "2016" .
+
+SR:article3835661  a   SR:Article ;
+        SO:has_author  "Wenbing Zhao 0001" ;
+        SO:has_id      "3835661" ;
+        SO:has_title   "Design and Implementation of a Consistent Time Service for Fault-Tolerant Distributed Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2003" .
+
+SR:article3874473  a   SR:Article ;
+        SO:has_author  "Maja D'Hondt" ;
+        SO:has_id      "3874473" ;
+        SO:has_title   "Using Critiquing Systems for Inconsistency Detection in Software Engineering Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2003" .
+
+SR:article2848021  a   SR:Article ;
+        SO:has_author  "Saloua Bennani" ;
+        SO:has_id      "2848021" ;
+        SO:has_title   "Proving Consistency of Pure Methods and Model Fields." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2009" .
+
+SR:article1595172  a   SR:Article ;
+        SO:has_author  "T. C. Nicholas Graham" ;
+        SO:has_id      "1595172" ;
+        SO:has_title   "Towards Model-and-Code Consistency Checking." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2014" .
+
+SR:article1382513  a   SR:Article ;
+        SO:has_author  "Jean-Sébastien Sottet" ;
+        SO:has_id      "1382513" ;
+        SO:has_title   "Process model for rapid implementation of features using flexible architecture." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSSP" ;
+        SO:has_year    "2015" .
+
+SR:article1943505  a   SR:Article ;
+        SO:has_author  "Gabriele Taentzer" ;
+        SO:has_id      "1943505" ;
+        SO:has_title   "Safety-first approach to memory consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISMM" ;
+        SO:has_year    "2013" .
+
+SR:article3831497  a   SR:Article ;
+        SO:has_author  "Shivakant Mishra" ;
+        SO:has_id      "3831497" ;
+        SO:has_title   "Flexible Fault Tolerance in Configurable Middleware for Embedded Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2003" .
+
+SR:article3584507  a   SR:Article ;
+        SO:has_author  "Junfeng Fan" ;
+        SO:has_id      "3584507" ;
+        SO:has_title   "Design and Analysis of Fault Tolerant Architectures by Model Weaving." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2005" .
+
+SR:article3574372  a   SR:Article ;
+        SO:has_author  "Zhenqi Li" ;
+        SO:has_id      "3574372" ;
+        SO:has_title   "A Hybrid and Adaptive Model for Fault-Tolerant Distributed Computing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2005" .
+
+SR:article3574351  a   SR:Article ;
+        SO:has_author  "Christian Buckl" ;
+        SO:has_id      "3574351" ;
+        SO:has_title   "H-RAFT - Heuristic Reachability Analysis for Fault Tolerance Protocols Modelled in SDL." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2005" .
+
+SR:article3079937  a   SR:Article ;
+        SO:has_author  "Yentl Van Tendeloo" ;
+        SO:has_id      "3079937" ;
+        SO:has_title   "Detecting model inconsistency through operation-based model construction." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2008" .
+
+SR:article2900965  a   SR:Article ;
+        SO:has_author  "Eric Umuhoza" ;
+        SO:has_id      "2900965" ;
+        SO:has_title   "A Goal-Based Modeling Approach to Develop Requirements of an Adaptive System with Environmental Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2009" .
+
+SR:article796952  a    SR:Article ;
+        SO:has_author  "Jörg Kienzle" , "Marco Brambilla 0001" ;
+        SO:has_id      "796952" ;
+        SO:has_title   "Enhancing Flexibility in User Interaction Modeling by Adding Design Uncertainty to IFML." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article3028971  a   SR:Article ;
+        SO:has_author  "Isabelle Mounier" ;
+        SO:has_id      "3028971" ;
+        SO:has_title   "A Measurement-Driven Process Model for Managing Inconsistent Software Requirements." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2008" .
+
+SR:article2202767  a   SR:Article ;
+        SO:has_author  "Yingfei Xiong" ;
+        SO:has_id      "2202767" ;
+        SO:has_title   "Computing repair trees for resolving inconsistencies in design models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2012" .
+
+SR:article1675340  a   SR:Article ;
+        SO:has_author  "W. Greg Phillips" ;
+        SO:has_id      "1675340" ;
+        SO:has_title   "Pipe Check - Specifying and Verifying Microarchitectural Enforcement of Memory Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MICRO" ;
+        SO:has_year    "2014" .
+
+SR:article3400178  a   SR:Article ;
+        SO:has_author  "Oszkár Semeráth" ;
+        SO:has_id      "3400178" ;
+        SO:has_title   "Inter-Model Consistency in UML Based on CPN Formalism." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2006" .
+
+SR:article3080856  a   SR:Article ;
+        SO:has_author  "Alix Mougenot" ;
+        SO:has_id      "3080856" ;
+        SO:has_title   "Detecting and Repairing Inconsistencies across Heterogeneous Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICST" ;
+        SO:has_year    "2008" .
+
+SR:article2594435  a   SR:Article ;
+        SO:has_author  "Jean-Charles Fabre" ;
+        SO:has_id      "2594435" ;
+        SO:has_title   "A Semi-Markov Survivability Evaluation Model for Intrusion Tolerant Database Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2010" .
+
+SR:article4034468  a   SR:Article ;
+        SO:has_author  "Davide Martinenghi" ;
+        SO:has_id      "4034468" ;
+        SO:has_title   "\"Tolerating Inconsistency\" Revisited." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2001" .
+
+SR:article108971  a    SR:Article ;
+        SO:has_author  "Wieland Schwinger" ;
+        SO:has_id      "108971" ;
+        SO:has_title   "A Formal Analysis of the NVIDIA PTX Memory Consistency Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASPLOS" ;
+        SO:has_year    "2019" .
+
+SR:article1913150  a   SR:Article ;
+        SO:has_author  "Kathi Hogshead Davis" ;
+        SO:has_id      "1913150" ;
+        SO:has_title   "Slicing the V-Model - Reduced Effort, Higher Flexibility." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICGSE" ;
+        SO:has_year    "2013" .
+
+SR:article3285157  a   SR:Article ;
+        SO:has_author  "Mohamed Jmaïel" ;
+        SO:has_id      "3285157" ;
+        SO:has_title   "Software Reliability Modeling with Test Coverage - Experimentation and Measurement with A Fault-Tolerant Software Project." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2007" .
+
+SR:article1944193  a   SR:Article ;
+        SO:has_author  "Mehrdad Sabetzadeh" ;
+        SO:has_id      "1944193" ;
+        SO:has_title   "Consistency-preserving edit scripts in model versioning." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2013" .
+
+SR:article2118149  a   SR:Article ;
+        SO:has_author  "Jing Wang" ;
+        SO:has_id      "2118149" ;
+        SO:has_title   "A Pattern for Modelling Fault Tolerant Systems in Event-B." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ABZ" ;
+        SO:has_year    "2012" .
+
+SR:article2685080  a   SR:Article ;
+        SO:has_author  "Ralf Lämmel" ;
+        SO:has_id      "2685080" ;
+        SO:has_title   "Selective and Consistent Undoing of Model Changes." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article2210665  a   SR:Article ;
+        SO:has_author  "Ludovico Iovino" ;
+        SO:has_id      "2210665" ;
+        SO:has_title   "Applying a Consistency Checking Framework for Heterogeneous Models and Artifacts in Industrial Product Lines." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article165879  a    SR:Article ;
+        SO:has_author  "Gang Huang 0001" ;
+        SO:has_id      "165879" ;
+        SO:has_title   "Verifying Safety of Synchronous Fault-Tolerant Algorithms by Bounded Model Checking." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TACAS" ;
+        SO:has_year    "2019" .
+
+SR:article1692543  a   SR:Article ;
+        SO:has_author  "Nicolas Guelfi" ;
+        SO:has_id      "1692543" ;
+        SO:has_title   "Flexible Modeling and Product Derivation in Software Product Lines." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2014" .
+
+SR:article4361635  a   SR:Article ;
+        SO:has_author  "Juan de Lara" ;
+        SO:has_id      "4361635" ;
+        SO:has_title   "Combining a Flexible Data Model and Phase Schema Translation in Data Model Reverse Engineering." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "WCRE" ;
+        SO:has_year    "1996" .
+
+SR:article1310780  a   SR:Article ;
+        SO:has_author  "Nicolas Hili" ;
+        SO:has_id      "1310780" ;
+        SO:has_title   "Towards Model-Driven Variability-Based Flexible Service Compositions." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2015" .
+
+SR:article3874413  a   SR:Article ;
+        SO:has_author  "Paulo Romero Martins Maciel" ;
+        SO:has_id      "3874413" ;
+        SO:has_title   "Specification and Validation of Fault-Tolerant Software Architectures Based on Actor Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2003" .
+
+SR:article1115051  a   SR:Article ;
+        SO:has_author  "Igor Konnov 0001" ;
+        SO:has_id      "1115051" ;
+        SO:has_title   "Towards Modelling Adaptive Fault Tolerance for Resilient Computing Analysis." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SAFECOMP" ;
+        SO:has_year    "2016" .
+
+SR:article2915058  a   SR:Article ;
+        SO:has_author  "Esther Guerra" ;
+        SO:has_id      "2915058" ;
+        SO:has_title   "Towards an Alloy Formal Model for Flexible Advanced Transactional Model Development." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEW" ;
+        SO:has_year    "2009" .
+
+SR:article1863903  a   SR:Article ;
+        SO:has_author  "Hong Liu" ;
+        SO:has_id      "1863903" ;
+        SO:has_title   "A New Model for Error-Tolerant Side-Channel Cube Attacks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CHES" ;
+        SO:has_year    "2013" .
+
+SR:article452477  a    SR:Article ;
+        SO:has_author  "Byron DeVries" ;
+        SO:has_id      "452477" ;
+        SO:has_title   "Declarative project planning and controlling - a formal model to support the handling of unavoidable inconsistencies." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSSP" ;
+        SO:has_year    "2018" .
+
+SR:article2895352  a   SR:Article ;
+        SO:has_author  "Hong Mei" ;
+        SO:has_id      "2895352" ;
+        SO:has_title   "Enhanced Automation for Managing Model and Metamodel Inconsistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2009" .
+
+SR:article3112164  a   SR:Article ;
+        SO:has_author  "Hendrik Decker" ;
+        SO:has_id      "3112164" ;
+        SO:has_title   "Classifying integrity checking methods with regard to inconsistency tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "PPDP" ;
+        SO:has_year    "2008" .
+
+SR:article3628707  a   SR:Article ;
+        SO:has_author  "Ingrid Verbauwhede" ;
+        SO:has_id      "3628707" ;
+        SO:has_title   "A Formal Model for Fault-Tolerance in Distributed Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SAFECOMP" ;
+        SO:has_year    "2005" .
+
+SR:article2819125  a   SR:Article ;
+        SO:has_author  "Mahmoud El Hamlaoui" ;
+        SO:has_id      "2819125" ;
+        SO:has_title   "Checking Model Consistency Using Data-Flow Testing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2009" .
+
+SR:article2134288  a   SR:Article ;
+        SO:has_author  "Bo Wang" ;
+        SO:has_id      "2134288" ;
+        SO:has_title   "An Approach for Detecting Inconsistencies between Behavioral Models of the Software Architecture and the Code." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2012" .
+
+SR:article2910264  a   SR:Article ;
+        SO:has_author  "Xavier Blanc 0001" ;
+        SO:has_id      "2910264" ;
+        SO:has_title   "Composing Models for Detecting Inconsistencies - A Requirements Engineering Perspective." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "REFSQ" ;
+        SO:has_year    "2009" .
+
+SR:article3268996  a   SR:Article ;
+        SO:has_author  "Saloua Bennani" ;
+        SO:has_id      "3268996" ;
+        SO:has_title   "UML/Analyzer - A Tool for the Instant Consistency Checking of UML Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2007" .
+
+SR:article3616127  a   SR:Article ;
+        SO:has_author  "Erhan Leblebici" ;
+        SO:has_id      "3616127" ;
+        SO:has_title   "A tool for automatic UML model consistency checking." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2005" .
+
+SR:article2685133  a   SR:Article ;
+        SO:has_author  "Angelika Kusel" ;
+        SO:has_id      "2685133" ;
+        SO:has_title   "Static- and Dynamic Consistency Analysis of UML State Chart Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article3099504  a   SR:Article ;
+        SO:has_author  "Tom Mens" ;
+        SO:has_id      "3099504" ;
+        SO:has_title   "Generating and Evaluating Choices for Fixing Inconsistencies in UML Design Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2008" .
+
+SR:article679480  a    SR:Article ;
+        SO:has_author  "Romina Eramo" ;
+        SO:has_id      "679480" ;
+        SO:has_title   "Victim Communication Stack (VCS) - A flexible model to select the Human Attack Vector." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2017" .
+
+SR:article2894605  a   SR:Article ;
+        SO:has_author  "Liqiong Chen" ;
+        SO:has_id      "2894605" ;
+        SO:has_title   "Tamper-Tolerant Software - Modeling and Implementation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "IWSEC" ;
+        SO:has_year    "2009" .
+
+SR:article1878455  a   SR:Article ;
+        SO:has_author  "Tianyu Yang" ;
+        SO:has_id      "1878455" ;
+        SO:has_title   "Dependability models for designing disaster tolerant cloud computing systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2013" .
+
+SR:article3105850  a   SR:Article ;
+        SO:has_author  "Michalis Famelis" ;
+        SO:has_id      "3105850" ;
+        SO:has_title   "Automatically Generating Behavioral Models of Adaptive Systems to Address Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2008" .
+
+SR:article119880  a    SR:Article ;
+        SO:has_author  "Rick Salay" ;
+        SO:has_id      "119880" ;
+        SO:has_title   "Dealing with Uncertainty in Binary Logistic Regression Fault-proneness Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "EASE" ;
+        SO:has_year    "2019" .
+
+SR:article3299608  a   SR:Article ;
+        SO:has_author  "Sophie Ebersold" ;
+        SO:has_id      "3299608" ;
+        SO:has_title   "CheckFence - checking consistency of concurrent data types on relaxed memory models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "PLDI" ;
+        SO:has_year    "2007" .
+
+SR:article2478448  a   SR:Article ;
+        SO:has_author  "Oszkár Semeráth" ;
+        SO:has_id      "2478448" ;
+        SO:has_title   "Sound and Complete Monitoring of Sequential Consistency for Relaxed Memory Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TACAS" ;
+        SO:has_year    "2011" .
+
+SR:article2920811  a   SR:Article ;
+        SO:has_author  "Guisheng Fan" ;
+        SO:has_id      "2920811" ;
+        SO:has_title   "Modeling Fault Tolerant Services in Service-Oriented Architecture." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TASE" ;
+        SO:has_year    "2009" .
+
+SR:article797062  a    SR:Article ;
+        SO:has_author  "Juri Di Rocco" ;
+        SO:has_id      "797062" ;
+        SO:has_title   "Consistency Recovery in Interactive Modeling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article3467255  a   SR:Article ;
+        SO:has_author  "Kristof Berx" ;
+        SO:has_id      "3467255" ;
+        SO:has_title   "Detecting and Resolving Model Inconsistencies Using Transformation Dependency Analysis." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2006" .
+
+SR:article2685149  a   SR:Article ;
+        SO:has_author  "Ken Vanherpen" ;
+        SO:has_id      "2685149" ;
+        SO:has_title   "A Dynamic-Priority Based Approach to Fixing Inconsistent Feature Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article3626090  a   SR:Article ;
+        SO:has_author  "Anthony Anjorin" ;
+        SO:has_id      "3626090" ;
+        SO:has_title   "Transactors - a programming model for maintaining globally consistent distributed state in unreliable environments." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "POPL" ;
+        SO:has_year    "2005" .
+
+SR:article3054976  a   SR:Article ;
+        SO:has_author  "Mahmoud Nassar" ;
+        SO:has_id      "3054976" ;
+        SO:has_title   "Consistent Integration of Models Based on Views of Visual Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2008" .
+
+SR:article2920719  a   SR:Article ;
+        SO:has_author  "Sophie Ebersold" ;
+        SO:has_id      "2920719" ;
+        SO:has_title   "Consistency, Independence and Consequences in UML and OCL Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TAP" ;
+        SO:has_year    "2009" .
+
+SR:article2389546  a   SR:Article ;
+        SO:has_author  "Marsha Chechik" ;
+        SO:has_id      "2389546" ;
+        SO:has_title   "Formalizing model consistency based on the abstract syntax." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "EICS" ;
+        SO:has_year    "2011" .
+
+SR:article2356263  a   SR:Article ;
+        SO:has_author  "Steve M. Easterbrook" ;
+        SO:has_id      "2356263" ;
+        SO:has_title   "Consistency Checks for Duties in Extended UML2 Activity Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2011" .
+
+SR:article1418279  a   SR:Article ;
+        SO:has_author  "Jan Martijn E. M. van der Werf" ;
+        SO:has_id      "1418279" ;
+        SO:has_title   "Building consistent transactions with inconsistent replication." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SOSP" ;
+        SO:has_year    "2015" .
+
+SR:article4346495  a   SR:Article ;
+        SO:has_author  "Jeffrey M. Voas" ;
+        SO:has_id      "4346495" ;
+        SO:has_title   "Investigating rare-event failure tolerance - reductions in future uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "1996" .
+
+SR:article4040074  a   SR:Article ;
+        SO:has_author  "Kevin E. Dorow" ;
+        SO:has_id      "4040074" ;
+        SO:has_title   "Low-Cost Flexible Software Fault Tolerance for Distributed Computing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2001" .
+
+SR:article1028860  a   SR:Article ;
+        SO:has_author  "Jasper Schenkhuizen" ;
+        SO:has_id      "1028860" ;
+        SO:has_title   "Consistent Inconsistency Management - A Concern-Driven Approach." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ECSA" ;
+        SO:has_year    "2016" .
+
+SR:article804630  a    SR:Article ;
+        SO:has_author  "Iris Groher" ;
+        SO:has_id      "804630" ;
+        SO:has_title   "Ogre and Pythia - an invariance proof method for weak consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "POPL" ;
+        SO:has_year    "2017" .
+
+SR:article392731  a    SR:Article ;
+        SO:has_author  "Alexander Egyed" ;
+        SO:has_id      "392731" ;
+        SO:has_title   "AHM - Handling Heterogeneous Models Matching and Consistency via MDE." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ENASE" ;
+        SO:has_year    "2018" .
+
+SR:article3300826  a   SR:Article ;
+        SO:has_author  "Bernard Coulette" ;
+        SO:has_id      "3300826" ;
+        SO:has_title   "On the Collaborative Development of Para-Consistent Conceptual Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2007" .
+
+SR:article3712576  a   SR:Article ;
+        SO:has_author  "Bruno Silva 0001" ;
+        SO:has_id      "3712576" ;
+        SO:has_title   "Model Checking a Fault-Tolerant Startup Algorithm - From Design Exploration To Exhaustive Fault Simulation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2004" .
+
+SR:article2685115  a   SR:Article ;
+        SO:has_author  "Brice Morin" ;
+        SO:has_id      "2685115" ;
+        SO:has_title   "Flexible Model Element Introduction Policies for Aspect-Oriented Modeling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article3418320  a   SR:Article ;
+        SO:has_author  "Bernhard Schätz" ;
+        SO:has_id      "3418320" ;
+        SO:has_title   "Modeling and Evaluating the Survivability of an Intrusion Tolerant Database System." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ESORICS" ;
+        SO:has_year    "2006" .
+
+SR:article2458745  a   SR:Article ;
+        SO:has_author  "Olivier Giroux" ;
+        SO:has_id      "2458745" ;
+        SO:has_title   "Semantically Configurable Consistency Analysis for Class and Object Diagrams." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2011" .
+
+SR:article4721152  a   SR:Article ;
+        SO:has_author  "Daniel F. Fitch" ;
+        SO:has_id      "4721152" ;
+        SO:has_title   "Analytical Modelling of the Reliability of a Fault-Tolerant Computer-Copra." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "Performance" ;
+        SO:has_year    "1977" .
+
+SR:article1378637  a   SR:Article ;
+        SO:has_author  "Bran Selic" ;
+        SO:has_id      "1378637" ;
+        SO:has_title   "ArMOR - defending against memory consistency model mismatches in heterogeneous architectures." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISCA" ;
+        SO:has_year    "2015" .
+
+SR:article2466464  a   SR:Article ;
+        SO:has_author  "Hendrik Decker" ;
+        SO:has_id      "2466464" ;
+        SO:has_title   "Data Quality Maintenance by Integrity-Preserving Repairs that Tolerate Inconsistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2011" .
+
+SR:article726969  a    SR:Article ;
+        SO:has_author  "Wolfgang Heider" ;
+        SO:has_id      "726969" ;
+        SO:has_title   "Inter-model Consistency Checking Using Triple Graph Grammars and Linear Optimization Techniques." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2017" .
+
+SR:article430566  a    SR:Article ;
+        SO:has_author  "Hans Vangheluwe" ;
+        SO:has_id      "430566" ;
+        SO:has_title   "An automated and instant discovery of concrete repairs for model inconsistencies." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2018" .
+
+SR:article2357009  a   SR:Article ;
+        SO:has_author  "Vasileios Tenentes" ;
+        SO:has_id      "2357009" ;
+        SO:has_title   "Extended neglect tolerance model & human robot teams." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICICS" ;
+        SO:has_year    "2011" .
+
+SR:article2210629  a   SR:Article ;
+        SO:has_author  "Marcel Heinz" ;
+        SO:has_id      "2210629" ;
+        SO:has_title   "Incremental Consistency Checking for Complex Design Rules and Larger Model Changes." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article796995  a    SR:Article ;
+        SO:has_author  "István Dávid" ;
+        SO:has_id      "796995" ;
+        SO:has_title   "Modeling and Enactment Support for Early Detection of Inconsistencies in Engineering Processes." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article1870790  a   SR:Article ;
+        SO:has_author  "Pierre Kelsen" ;
+        SO:has_id      "1870790" ;
+        SO:has_title   "DBPowder - A Flexible Object-Relational Mapping Framework Based on a Conceptual Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2013" .
+
+SR:article4519081  a   SR:Article ;
+        SO:has_author  "Roland Kretschmer" ;
+        SO:has_id      "4519081" ;
+        SO:has_title   "Prototyping an Inconsistency Checking Tool for Software Process Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "1992" .
+
+SR:article3249851  a   SR:Article ;
+        SO:has_author  "Wafa Gabsi" ;
+        SO:has_id      "3249851" ;
+        SO:has_title   "Pattern-Based Modeling and Analysis of Failsafe Fault-Tolerance in UML." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2007" .
+
+SR:article3477690  a   SR:Article ;
+        SO:has_author  "Dániel Varró" ;
+        SO:has_id      "3477690" ;
+        SO:has_title   "Specifying Consistency Constraints for Modelling Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2006" .
+
+SR:article161287  a    SR:Article ;
+        SO:has_author  "Alessio Di Sandro" ;
+        SO:has_id      "161287" ;
+        SO:has_title   "Test Model Coverage Analysis Under Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEFM" ;
+        SO:has_year    "2019" .
+
+SR:article2428966  a   SR:Article ;
+        SO:has_author  "Haiyan Zhao" ;
+        SO:has_id      "2428966" ;
+        SO:has_title   "Inconsistency management framework for model-based development." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2011" .
+
+SR:article3474022  a   SR:Article ;
+        SO:has_author  "Michael Armbruster" ;
+        SO:has_id      "3474022" ;
+        SO:has_title   "Use Case-Based Modeling and Analysis of Failsafe Fault-Tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RE" ;
+        SO:has_year    "2006" .
+
+SR:article783280  a    SR:Article ;
+        SO:has_author  "Hui Song" ;
+        SO:has_id      "783280" ;
+        SO:has_title   "Models of Reliability of Fault-Tolerant Software Under Cyber-Attacks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2017" .
+
+SR:article2901057  a   SR:Article ;
+        SO:has_author  "Juergen Etzlstorfer" ;
+        SO:has_id      "2901057" ;
+        SO:has_title   "An Incremental Algorithm for High-Performance Runtime Model Consistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2009" .
+
+SR:article1883853  a   SR:Article ;
+        SO:has_author  "Leen Lambers" ;
+        SO:has_id      "1883853" ;
+        SO:has_title   "Heterogeneous Models Matching for Consistency Management." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ENASE" ;
+        SO:has_year    "2013" .
+
+SR:article1922518  a   SR:Article ;
+        SO:has_author  "Enrico Frumento" ;
+        SO:has_id      "1922518" ;
+        SO:has_title   "VERA - A Flexible Model-Based Vulnerability Testing Tool." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICST" ;
+        SO:has_year    "2013" .
+
+SR:article1043964  a   SR:Article ;
+        SO:has_author  "Ying Zhang 0012" ;
+        SO:has_id      "1043964" ;
+        SO:has_title   "Model Checking for the Fault Tolerance of Collaborative AUVs." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2016" .
+
+SR:article3105869  a   SR:Article ;
+        SO:has_author  "Elisabeth Kapsammer" ;
+        SO:has_id      "3105869" ;
+        SO:has_title   "Sufficient Criteria for Consistent Behavior Modeling with Refined Activity Diagrams." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2008" .
+
+SR:article999234  a    SR:Article ;
+        SO:has_author  "Florian Noyrit" ;
+        SO:has_id      "999234" ;
+        SO:has_title   "Observation-Based Concurrent Program Logic for Relaxed Memory Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APLAS" ;
+        SO:has_year    "2016" .
+
+SR:article3223677  a   SR:Article ;
+        SO:has_author  "Mahmoud El Hamlaoui" ;
+        SO:has_id      "3223677" ;
+        SO:has_title   "Consistent Modeling, Integration and Simulation of Molecular Interaction Networks in Space-Time Dimension." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "BIBE" ;
+        SO:has_year    "2007" .
+
+SR:article3080155  a   SR:Article ;
+        SO:has_author  "Bernard Coulette" ;
+        SO:has_id      "3080155" ;
+        SO:has_title   "Global consistency checking of distributed models with TReMer+." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2008" .
+
+SR:article378705  a    SR:Article ;
+        SO:has_author  "Marsha Chechik" ;
+        SO:has_id      "378705" ;
+        SO:has_title   "Towards Modelling and Reasoning About Uncertain Data of Sensor Measurements for Decision Support in Smart Spaces." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2018" .
+
+SR:article2136296  a   SR:Article ;
+        SO:has_author  "Shiva Nejati" ;
+        SO:has_id      "2136296" ;
+        SO:has_title   "Constraint-Based Consistency Checking between Design Decisions and Component Models for Supporting Software Architecture Evolution." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CSMR" ;
+        SO:has_year    "2012" .
+
+SR:article4596855  a   SR:Article ;
+        SO:has_author  "Louise E. Moser" ;
+        SO:has_id      "4596855" ;
+        SO:has_title   "Leases - An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SOSP" ;
+        SO:has_year    "1989" .
+
+SR:article1952192  a   SR:Article ;
+        SO:has_author  "Romina Eramo" ;
+        SO:has_id      "1952192" ;
+        SO:has_title   "Transformation of Models Containing Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2013" .
+
+SR:article2693743  a   SR:Article ;
+        SO:has_author  "Wei Zhang 0004" ;
+        SO:has_id      "2693743" ;
+        SO:has_title   "Techne - Towards a New Generation of Requirements Modeling Languages with Goals, Preferences, and Inconsistency Handling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RE" ;
+        SO:has_year    "2010" .
+
+SR:article4565741  a   SR:Article ;
+        SO:has_author  "Michael Poppleton" ;
+        SO:has_id      "4565741" ;
+        SO:has_title   "Modeling execution time of multi-stage N-version fault-tolerant software." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "1990" .
+
+SR:article2210561  a   SR:Article ;
+        SO:has_author  "Zhenjiang Hu" ;
+        SO:has_id      "2210561" ;
+        SO:has_title   "Evaluating the Impact of Aspects on Inconsistency Detection Effort - A Controlled Experiment." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article430840  a    SR:Article ;
+        SO:has_author  "Paul Grünbacher" ;
+        SO:has_id      "430840" ;
+        SO:has_title   "A graph solver for the automated generation of consistent domain-specific models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2018" .
+
+SR:article2377127  a   SR:Article ;
+        SO:has_author  "Gianni Rosa" ;
+        SO:has_id      "2377127" ;
+        SO:has_title   "Modeling the Uncertain Data in the K-anonymity Privacy Protection Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CIS" ;
+        SO:has_year    "2011" .
+
+SR:article4543652  a   SR:Article ;
+        SO:has_author  "Robert Balzer" ;
+        SO:has_id      "4543652" ;
+        SO:has_title   "Tolerating Inconsistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "1991" .
+
+SR:article1043959  a   SR:Article ;
+        SO:has_author  "François Terrier" ;
+        SO:has_id      "1043959" ;
+        SO:has_title   "Runtime Adjustment of Configuration Models for Consistency Preservation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2016" .
+
+SR:article1393657  a   SR:Article ;
+        SO:has_author  "Christian Schwarzl" ;
+        SO:has_id      "1393657" ;
+        SO:has_title   "Efficient GPU synchronization without scopes - saying no to complex consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MICRO" ;
+        SO:has_year    "2015" .
+
+SR:article2470352  a   SR:Article ;
+        SO:has_author  "William Excoffon" ;
+        SO:has_id      "2470352" ;
+        SO:has_title   "Modeling and tolerating heterogeneous failures in large parallel systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SC" ;
+        SO:has_year    "2011" .
+
+SR:article804691  a    SR:Article ;
+        SO:has_author  "Alexander Egyed" ;
+        SO:has_id      "804691" ;
+        SO:has_title   "Automatically comparing memory consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "POPL" ;
+        SO:has_year    "2017" .
+@prefix RDFLABEL: <http://www.w3.org/2000/01/rdf-schema#label> .
+@prefix SO:    <http://dblp.org/ontology#> .
+@prefix SR:    <http://dblp.org/resource#> .
+
+SR:article3708150  a   SR:Article ;
+        SO:has_author  "Doowon Lee" ;
+        SO:has_id      "3708150" ;
+        SO:has_title   "Automated Consistency and Completeness Checking of Testing Models for Interactive Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2004" .
+
+SR:article1970304  a   SR:Article ;
+        SO:has_author  "Davide Andreoletti" ;
+        SO:has_id      "1970304" ;
+        SO:has_title   "Designing flexible access control models for the cloud." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SIN" ;
+        SO:has_year    "2013" .
+
+SR:article2819084  a   SR:Article ;
+        SO:has_author  "Michaël Lauer" ;
+        SO:has_id      "2819084" ;
+        SO:has_title   "A Method for Modeling and Analyzing Fault-Tolerant Service Composition." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2009" .
+
+SR:article2425330  a   SR:Article ;
+        SO:has_author  "Sameer Sahasrabuddhe" ;
+        SO:has_id      "2425330" ;
+        SO:has_title   "Fine-Tuning Model Transformation - Change Propagation in Context of Consistency, Completeness, and Human Guidance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICMT" ;
+        SO:has_year    "2011" .
+
+SR:article3584506  a   SR:Article ;
+        SO:has_author  "Bin Zhang 0003" ;
+        SO:has_id      "3584506" ;
+        SO:has_title   "Linear Randomized Voting Algorithm for Fault Tolerant Sensor Fusion and the Corresponding Reliability Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2005" .
+
+SR:article777670  a    SR:Article ;
+        SO:has_author  "Gerald Holl" ;
+        SO:has_id      "777670" ;
+        SO:has_title   "MTraceCheck - Validating Non-Deterministic Behavior of Memory Consistency Models in Post-Silicon Validation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISCA" ;
+        SO:has_year    "2017" .
+
+SR:article3293827  a   SR:Article ;
+        SO:has_author  "Ragnhild Van Der Straeten" ;
+        SO:has_id      "3293827" ;
+        SO:has_title   "Improving Inconsistency Resolution with Side-Effect Evaluation and Costs." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2007" .
+
+SR:article2225163  a   SR:Article ;
+        SO:has_author  "Mauricio D. Gutierrez" ;
+        SO:has_id      "2225163" ;
+        SO:has_title   "A Petri Net Model for Secure and Fault-Tolerant Cloud-Based Information Storage." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2012" .
+
+SR:article3226909  a   SR:Article ;
+        SO:has_author  "Soontaree Tanaraksiritavorn" ;
+        SO:has_id      "3226909" ;
+        SO:has_title   "Flexible intrusion tolerant voting architecture." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "STC" ;
+        SO:has_year    "2007" .
+
+SR:article1579227  a   SR:Article ;
+        SO:has_author  "Christopher Wolfe" ;
+        SO:has_id      "1579227" ;
+        SO:has_title   "Efficiently and Completely Verifying Synchronized Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ATVA" ;
+        SO:has_year    "2014" .
+
+SR:article709375  a    SR:Article ;
+        SO:has_author  "Alfonso Pierantonio" ;
+        SO:has_id      "709375" ;
+        SO:has_title   "A Modeling Approach for Flexible Workflow Applications of Cloud Services." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2017" .
+
+SR:article689294  a    SR:Article ;
+        SO:has_author  "Betty H. C. Cheng" ;
+        SO:has_id      "689294" ;
+        SO:has_title   "From Abstract to Concrete Repairs of Model Inconsistencies - An Automated Approach." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2017" .
+
+SR:article2604034  a   SR:Article ;
+        SO:has_author  "Aren A. Babikian" ;
+        SO:has_id      "2604034" ;
+        SO:has_title   "On Constructing Thermodynamically Consistent Parametrizations of Kinetic Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "BIBE" ;
+        SO:has_year    "2010" .
+
+SR:article1645915  a   SR:Article ;
+        SO:has_author  "Barbara Gallina" ;
+        SO:has_id      "1645915" ;
+        SO:has_title   "Controlled modeling environment using flexibly-formatted spreadsheets." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2014" .
+
+SR:article3214905  a   SR:Article ;
+        SO:has_author  "Yunxiang Liu" ;
+        SO:has_id      "3214905" ;
+        SO:has_title   "Fault-Tolerant Semi-Passive Coordination Protocol for a Multi-Actuator/Multi-Sensor (MAMS) Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2007" .
+
+SR:article3408007  a   SR:Article ;
+        SO:has_author  "András Szabolcs Nagy" ;
+        SO:has_id      "3408007" ;
+        SO:has_title   "Ontology-Based RFID System Model for Supporting Semantic Consistency in Ubiquitous Environment." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CIS" ;
+        SO:has_year    "2006" .
+
+SR:article1000899  a   SR:Article ;
+        SO:has_author  "Sébastien Gérard" ;
+        SO:has_id      "1000899" ;
+        SO:has_title   "Specifying and Checking File System Crash-Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASPLOS" ;
+        SO:has_year    "2016" .
+
+SR:article797021  a    SR:Article ;
+        SO:has_author  "Jean-Marc Jézéquel" ;
+        SO:has_id      "797021" ;
+        SO:has_title   "The Conformance Relation Challenge - Building Flexible Modelling Frameworks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article2666261  a   SR:Article ;
+        SO:has_author  "Azalea Raad" ;
+        SO:has_id      "2666261" ;
+        SO:has_title   "A self-consistent model to estimate NBTI degradation and a comprehensive on-line system lifetime enhancement technique." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "IOLTS" ;
+        SO:has_year    "2010" .
+
+SR:article1963556  a   SR:Article ;
+        SO:has_author  "Federica Freschi" ;
+        SO:has_id      "1963556" ;
+        SO:has_title   "A flexible framework for modeling and simulation of multipurpose wireless networks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RSP" ;
+        SO:has_year    "2013" .
+
+SR:article467246  a    SR:Article ;
+        SO:has_author  "Jacques Klein" ;
+        SO:has_id      "467246" ;
+        SO:has_title   "On the Quest for Flexible Modelling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2018" .
+
+SR:article4286426  a   SR:Article ;
+        SO:has_author  "Gintautas Sulskus" ;
+        SO:has_id      "4286426" ;
+        SO:has_title   "Model Checking and Fault Tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "AMAST" ;
+        SO:has_year    "1997" .
+
+SR:article3317904  a   SR:Article ;
+        SO:has_author  "Slinger Jansen" ;
+        SO:has_id      "3317904" ;
+        SO:has_title   "A Study of Consistent and Inconsistent Changes to Code Clones." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "WCRE" ;
+        SO:has_year    "2007" .
+
+SR:article1080091  a   SR:Article ;
+        SO:has_author  "Ilina Stoilkovska" ;
+        SO:has_id      "1080091" ;
+        SO:has_title   "Susceptible workload driven selective fault tolerance using a probabilistic fault model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "IOLTS" ;
+        SO:has_year    "2016" .
+
+SR:article392732  a    SR:Article ;
+        SO:has_author  "Michael Vierhauser" ;
+        SO:has_id      "392732" ;
+        SO:has_title   "A MDE Approach for Heterogeneous Models Consistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ENASE" ;
+        SO:has_year    "2018" .
+
+SR:article3249865  a   SR:Article ;
+        SO:has_author  "Bechir Zalila" ;
+        SO:has_id      "3249865" ;
+        SO:has_title   "Preliminary Models of the Cost of Fault Tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2007" .
+
+SR:article3744320  a   SR:Article ;
+        SO:has_author  "Swarnendu Biswas" ;
+        SO:has_id      "3744320" ;
+        SO:has_title   "TSOtool - A Program for Verifying Memory Systems Using the Memory Consistency Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISCA" ;
+        SO:has_year    "2004" .
+
+SR:article3301052  a   SR:Article ;
+        SO:has_author  "Werner Retschitzegger" ;
+        SO:has_id      "3301052" ;
+        SO:has_title   "Consistency Checking of Conceptual Models via Model Merging." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RE" ;
+        SO:has_year    "2007" .
+
+SR:article786949  a    SR:Article ;
+        SO:has_author  "Daniela Lettner" ;
+        SO:has_id      "786949" ;
+        SO:has_title   "Avoiding consistency exceptions under strong memory models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISMM" ;
+        SO:has_year    "2017" .
+
+SR:article2685116  a   SR:Article ;
+        SO:has_author  "Alfonso Pierantonio" ;
+        SO:has_id      "2685116" ;
+        SO:has_title   "Consistent Modeling Using Multiple UML Profiles." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article2387277  a   SR:Article ;
+        SO:has_author  "Tom J. Kazmierski" ;
+        SO:has_id      "2387277" ;
+        SO:has_title   "Efficient model checking of fault-tolerant distributed protocols." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2011" .
+
+SR:article2210672  a   SR:Article ;
+        SO:has_author  "Yihan Wu" ;
+        SO:has_id      "2210672" ;
+        SO:has_title   "Model Driven Configuration of Fault Tolerance Solutions for Component-Based Software System." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article1117278  a   SR:Article ;
+        SO:has_author  "Josef Widder" ;
+        SO:has_id      "1117278" ;
+        SO:has_title   "Modeling and analyzing cost-aware fault tolerant strategy for cloud application." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2016" .
+
+SR:article1879957  a   SR:Article ;
+        SO:has_author  "Stefan Jurack" ;
+        SO:has_id      "1879957" ;
+        SO:has_title   "Supporting Consistency between Architectural Design Decisions and Component Models through Reusable Architectural Knowledge Transformations." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ECSA" ;
+        SO:has_year    "2013" .
+
+SR:article453064  a    SR:Article ;
+        SO:has_author  "Rick Salay" ;
+        SO:has_id      "453064" ;
+        SO:has_title   "Online Model-Based Testing under Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2018" .
+
+SR:article2397483  a   SR:Article ;
+        SO:has_author  "Daniel Lustig" ;
+        SO:has_id      "2397483" ;
+        SO:has_title   "Modeling with Plausibility Checking - Inspecting Favorable and Critical Signs for Consistency between Control Flow and Functional Behavior." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2011" .
+
+SR:article796996  a    SR:Article ;
+        SO:has_author  "Bart Meyers" ;
+        SO:has_id      "796996" ;
+        SO:has_title   "Using Models at Run Time to Detect Incomplete and Inconsistent Requirements." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article467333  a    SR:Article ;
+        SO:has_author  "Marco Brambilla 0001" ;
+        SO:has_id      "467333" ;
+        SO:has_title   "Towards sound, optimal, and flexible building from megamodels." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2018" .
+
+SR:article141465  a    SR:Article ;
+        SO:has_author  "Johannes Schönböck" ;
+        SO:has_id      "141465" ;
+        SO:has_title   "Viatra solver - a framework for the automated generation of consistent domain-specific models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2019" .
+
+SR:article3708161  a   SR:Article ;
+        SO:has_author  "Valeria Bertacco" ;
+        SO:has_id      "3708161" ;
+        SO:has_title   "Consistency Check in Modelling Multi-Agent Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2004" .
+
+SR:article709399  a    SR:Article ;
+        SO:has_author  "Gianni Rosa" ;
+        SO:has_id      "709399" ;
+        SO:has_title   "From Sequence Diagrams to Event B - A Specification and Verification Approach of Flexible Workflow Applications of Cloud Services Based on Meta-model Transformation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2017" .
+
+SR:article1692437  a   SR:Article ;
+        SO:has_author  "Peter Popov" ;
+        SO:has_id      "1692437" ;
+        SO:has_title   "A Formal Model for Constraint-Based Deployment Calculation and Analysis for Fault-Tolerant Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEFM" ;
+        SO:has_year    "2014" .
+
+SR:article1921518  a   SR:Article ;
+        SO:has_author  "Perdita Stevens" ;
+        SO:has_id      "1921518" ;
+        SO:has_title   "Modes, features, and state-based modeling for clarity and flexibility." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MiSE" ;
+        SO:has_year    "2013" .
+
+SR:article158379  a    SR:Article ;
+        SO:has_author  "Alexander Reder" ;
+        SO:has_id      "158379" ;
+        SO:has_title   "Model checking for weakly consistent libraries." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "PLDI" ;
+        SO:has_year    "2019" .
+
+SR:article3268995  a   SR:Article ;
+        SO:has_author  "Tom Mens" ;
+        SO:has_id      "3268995" ;
+        SO:has_title   "Fixing Inconsistencies in UML Design Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2007" .
+
+SR:article2221749  a   SR:Article ;
+        SO:has_author  "Sotirios Liaskos" ;
+        SO:has_id      "2221749" ;
+        SO:has_title   "Maximal Causal Models for Sequentially Consistent Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RV" ;
+        SO:has_year    "2012" .
+
+SR:article1421088  a   SR:Article ;
+        SO:has_author  "Bernhard Peischl" ;
+        SO:has_id      "1421088" ;
+        SO:has_title   "Checking UML and OCL Model Consistency - An Experience Report on a Middle-Sized Case Study." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TAP" ;
+        SO:has_year    "2015" .
+
+SR:article3400188  a   SR:Article ;
+        SO:has_author  "Klaus Becker 0001" ;
+        SO:has_id      "3400188" ;
+        SO:has_title   "Modeling and Customization of Fault Tolerant Architecture using Object-Z/XVCL." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2006" .
+
+SR:article3630092  a   SR:Article ;
+        SO:has_author  "Andy Schürr" ;
+        SO:has_id      "3630092" ;
+        SO:has_title   "Loosely-coupled Consistency between Agent-oriented Conceptual Models and Z Specifications." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2005" .
+
+SR:article1612868  a   SR:Article ;
+        SO:has_author  "Perdita Stevens" ;
+        SO:has_id      "1612868" ;
+        SO:has_title   "Bidirectionally Tolerating Inconsistency - Partial Transformations." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2014" .
+
+SR:article2656638  a   SR:Article ;
+        SO:has_author  "Michalis Kokologiannakis" ;
+        SO:has_id      "2656638" ;
+        SO:has_title   "A proposal for consistency checking in dynamic software product line models using OCL." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2010" .
+
+SR:article431563  a    SR:Article ;
+        SO:has_author  "Michalis Famelis" ;
+        SO:has_id      "431563" ;
+        SO:has_title   "Uncovering Unknown System Behaviors in Uncertain Networks with Model and Search-Based Testing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICST" ;
+        SO:has_year    "2018" .
+
+SR:article2614918  a   SR:Article ;
+        SO:has_author  "Sebastian Pilarski" ;
+        SO:has_id      "2614918" ;
+        SO:has_title   "A Consistency Model for Identity Information in Distributed Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2010" .
+
+SR:article2178935  a   SR:Article ;
+        SO:has_author  "Alfonso Pierantonio" ;
+        SO:has_id      "2178935" ;
+        SO:has_title   "Partial models - Towards modeling and reasoning with uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2012" .
+
+SR:article3269265  a   SR:Article ;
+        SO:has_author  "Mahmoud Nassar" ;
+        SO:has_id      "3269265" ;
+        SO:has_title   "Formal Verification of Consistency between Feature Model and Software Architecture in Software Product Line." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSEA" ;
+        SO:has_year    "2007" .
+
+SR:article1397075  a   SR:Article ;
+        SO:has_author  "Davide Di Ruscio" ;
+        SO:has_id      "1397075" ;
+        SO:has_title   "Consistent co-evolution of models and transformations." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2015" .
+
+SR:article4187985  a   SR:Article ;
+        SO:has_author  "Eduardo Tavares" ;
+        SO:has_id      "4187985" ;
+        SO:has_title   "Combining Fault Avoidance, Fault Removal and Fault Tolerance - An Integrated Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "1999" .
+
+SR:article2627518  a   SR:Article ;
+        SO:has_author  "Dániel Varró" ;
+        SO:has_id      "2627518" ;
+        SO:has_title   "Proving Consistency and Completeness of Model Classes Using Theory Interpretation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2010" .
+
+SR:article2678180  a   SR:Article ;
+        SO:has_author  "Michael Vierhauser" , "Viktor Vafeiadis" ;
+        SO:has_id      "2678180" ;
+        SO:has_title   "Flexible and scalable consistency checking on product line variability models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2010" .
+
+SR:article710442  a    SR:Article ;
+        SO:has_author  "Eric Umuhoza" ;
+        SO:has_id      "710442" ;
+        SO:has_title   "An Optimization Model for 3D Pipe Routing with Flexibility Constraints." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CP" ;
+        SO:has_year    "2017" .
+
+SR:article1922364  a   SR:Article ;
+        SO:has_author  "Katharina Mehner" ;
+        SO:has_id      "1922364" ;
+        SO:has_title   "Validating Consistency between a Feature Model and Its Implementation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSR" ;
+        SO:has_year    "2013" .
+
+SR:article3708506  a   SR:Article ;
+        SO:has_author  "Minjia Zhang" ;
+        SO:has_id      "3708506" ;
+        SO:has_title   "Consistency and Random Constraint Satisfaction Models with a High Constraint Tightness." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CP" ;
+        SO:has_year    "2004" .
+
+SR:article4193088  a   SR:Article ;
+        SO:has_author  "Armin Zimmermann" ;
+        SO:has_id      "4193088" ;
+        SO:has_title   "Hierarchical Reliability and Safety Models of Fault Tolerant Distributed Industrial Control Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SAFECOMP" ;
+        SO:has_year    "1999" .
+
+SR:article1118219  a   SR:Article ;
+        SO:has_author  "Florian Zuleger" ;
+        SO:has_id      "1118219" ;
+        SO:has_title   "EMA2AOP - From the AADL Error Model Annex to aspect language towards fault tolerant systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SERA" ;
+        SO:has_year    "2016" .
+
+SR:article2693460  a   SR:Article ;
+        SO:has_author  "Paul Grünbacher" ;
+        SO:has_id      "2693460" ;
+        SO:has_title   "Open Code Coverage Framework - A Consistent and Flexible Framework for Measuring Test Coverage Supporting Multiple Programming Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2010" .
+
+SR:article3835661  a   SR:Article ;
+        SO:has_author  "Wenbing Zhao 0001" ;
+        SO:has_id      "3835661" ;
+        SO:has_title   "Design and Implementation of a Consistent Time Service for Fault-Tolerant Distributed Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2003" .
+
+SR:article3874473  a   SR:Article ;
+        SO:has_author  "Maja D'Hondt" ;
+        SO:has_id      "3874473" ;
+        SO:has_title   "Using Critiquing Systems for Inconsistency Detection in Software Engineering Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2003" .
+
+SR:article2848021  a   SR:Article ;
+        SO:has_author  "Saloua Bennani" ;
+        SO:has_id      "2848021" ;
+        SO:has_title   "Proving Consistency of Pure Methods and Model Fields." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2009" .
+
+SR:article1595172  a   SR:Article ;
+        SO:has_author  "T. C. Nicholas Graham" ;
+        SO:has_id      "1595172" ;
+        SO:has_title   "Towards Model-and-Code Consistency Checking." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2014" .
+
+SR:article1382513  a   SR:Article ;
+        SO:has_author  "Jean-Sébastien Sottet" ;
+        SO:has_id      "1382513" ;
+        SO:has_title   "Process model for rapid implementation of features using flexible architecture." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSSP" ;
+        SO:has_year    "2015" .
+
+SR:article1943505  a   SR:Article ;
+        SO:has_author  "Gabriele Taentzer" ;
+        SO:has_id      "1943505" ;
+        SO:has_title   "Safety-first approach to memory consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISMM" ;
+        SO:has_year    "2013" .
+
+SR:article3831497  a   SR:Article ;
+        SO:has_author  "Shivakant Mishra" ;
+        SO:has_id      "3831497" ;
+        SO:has_title   "Flexible Fault Tolerance in Configurable Middleware for Embedded Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2003" .
+
+SR:article3584507  a   SR:Article ;
+        SO:has_author  "Junfeng Fan" ;
+        SO:has_id      "3584507" ;
+        SO:has_title   "Design and Analysis of Fault Tolerant Architectures by Model Weaving." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2005" .
+
+SR:article3574372  a   SR:Article ;
+        SO:has_author  "Zhenqi Li" ;
+        SO:has_id      "3574372" ;
+        SO:has_title   "A Hybrid and Adaptive Model for Fault-Tolerant Distributed Computing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2005" .
+
+SR:article3574351  a   SR:Article ;
+        SO:has_author  "Christian Buckl" ;
+        SO:has_id      "3574351" ;
+        SO:has_title   "H-RAFT - Heuristic Reachability Analysis for Fault Tolerance Protocols Modelled in SDL." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2005" .
+
+SR:article3079937  a   SR:Article ;
+        SO:has_author  "Yentl Van Tendeloo" ;
+        SO:has_id      "3079937" ;
+        SO:has_title   "Detecting model inconsistency through operation-based model construction." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2008" .
+
+SR:article2900965  a   SR:Article ;
+        SO:has_author  "Eric Umuhoza" ;
+        SO:has_id      "2900965" ;
+        SO:has_title   "A Goal-Based Modeling Approach to Develop Requirements of an Adaptive System with Environmental Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2009" .
+
+SR:article796952  a    SR:Article ;
+        SO:has_author  "Jörg Kienzle" , "Marco Brambilla 0001" ;
+        SO:has_id      "796952" ;
+        SO:has_title   "Enhancing Flexibility in User Interaction Modeling by Adding Design Uncertainty to IFML." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article3028971  a   SR:Article ;
+        SO:has_author  "Isabelle Mounier" ;
+        SO:has_id      "3028971" ;
+        SO:has_title   "A Measurement-Driven Process Model for Managing Inconsistent Software Requirements." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2008" .
+
+SR:article2202767  a   SR:Article ;
+        SO:has_author  "Yingfei Xiong" ;
+        SO:has_id      "2202767" ;
+        SO:has_title   "Computing repair trees for resolving inconsistencies in design models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2012" .
+
+SR:article1675340  a   SR:Article ;
+        SO:has_author  "W. Greg Phillips" ;
+        SO:has_id      "1675340" ;
+        SO:has_title   "Pipe Check - Specifying and Verifying Microarchitectural Enforcement of Memory Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MICRO" ;
+        SO:has_year    "2014" .
+
+SR:article3400178  a   SR:Article ;
+        SO:has_author  "Oszkár Semeráth" ;
+        SO:has_id      "3400178" ;
+        SO:has_title   "Inter-Model Consistency in UML Based on CPN Formalism." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2006" .
+
+SR:article3080856  a   SR:Article ;
+        SO:has_author  "Alix Mougenot" ;
+        SO:has_id      "3080856" ;
+        SO:has_title   "Detecting and Repairing Inconsistencies across Heterogeneous Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICST" ;
+        SO:has_year    "2008" .
+
+SR:article2594435  a   SR:Article ;
+        SO:has_author  "Jean-Charles Fabre" ;
+        SO:has_id      "2594435" ;
+        SO:has_title   "A Semi-Markov Survivability Evaluation Model for Intrusion Tolerant Database Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2010" .
+
+SR:article4034468  a   SR:Article ;
+        SO:has_author  "Davide Martinenghi" ;
+        SO:has_id      "4034468" ;
+        SO:has_title   "\"Tolerating Inconsistency\" Revisited." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2001" .
+
+SR:article108971  a    SR:Article ;
+        SO:has_author  "Wieland Schwinger" ;
+        SO:has_id      "108971" ;
+        SO:has_title   "A Formal Analysis of the NVIDIA PTX Memory Consistency Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASPLOS" ;
+        SO:has_year    "2019" .
+
+SR:article1913150  a   SR:Article ;
+        SO:has_author  "Kathi Hogshead Davis" ;
+        SO:has_id      "1913150" ;
+        SO:has_title   "Slicing the V-Model - Reduced Effort, Higher Flexibility." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICGSE" ;
+        SO:has_year    "2013" .
+
+SR:article3285157  a   SR:Article ;
+        SO:has_author  "Mohamed Jmaïel" ;
+        SO:has_id      "3285157" ;
+        SO:has_title   "Software Reliability Modeling with Test Coverage - Experimentation and Measurement with A Fault-Tolerant Software Project." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2007" .
+
+SR:article1944193  a   SR:Article ;
+        SO:has_author  "Mehrdad Sabetzadeh" ;
+        SO:has_id      "1944193" ;
+        SO:has_title   "Consistency-preserving edit scripts in model versioning." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2013" .
+
+SR:article2118149  a   SR:Article ;
+        SO:has_author  "Jing Wang" ;
+        SO:has_id      "2118149" ;
+        SO:has_title   "A Pattern for Modelling Fault Tolerant Systems in Event-B." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ABZ" ;
+        SO:has_year    "2012" .
+
+SR:article2685080  a   SR:Article ;
+        SO:has_author  "Ralf Lämmel" ;
+        SO:has_id      "2685080" ;
+        SO:has_title   "Selective and Consistent Undoing of Model Changes." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article2210665  a   SR:Article ;
+        SO:has_author  "Ludovico Iovino" ;
+        SO:has_id      "2210665" ;
+        SO:has_title   "Applying a Consistency Checking Framework for Heterogeneous Models and Artifacts in Industrial Product Lines." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article165879  a    SR:Article ;
+        SO:has_author  "Gang Huang 0001" ;
+        SO:has_id      "165879" ;
+        SO:has_title   "Verifying Safety of Synchronous Fault-Tolerant Algorithms by Bounded Model Checking." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TACAS" ;
+        SO:has_year    "2019" .
+
+SR:article1692543  a   SR:Article ;
+        SO:has_author  "Nicolas Guelfi" ;
+        SO:has_id      "1692543" ;
+        SO:has_title   "Flexible Modeling and Product Derivation in Software Product Lines." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2014" .
+
+SR:article4361635  a   SR:Article ;
+        SO:has_author  "Juan de Lara" ;
+        SO:has_id      "4361635" ;
+        SO:has_title   "Combining a Flexible Data Model and Phase Schema Translation in Data Model Reverse Engineering." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "WCRE" ;
+        SO:has_year    "1996" .
+
+SR:article1310780  a   SR:Article ;
+        SO:has_author  "Nicolas Hili" ;
+        SO:has_id      "1310780" ;
+        SO:has_title   "Towards Model-Driven Variability-Based Flexible Service Compositions." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2015" .
+
+SR:article3874413  a   SR:Article ;
+        SO:has_author  "Paulo Romero Martins Maciel" ;
+        SO:has_id      "3874413" ;
+        SO:has_title   "Specification and Validation of Fault-Tolerant Software Architectures Based on Actor Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2003" .
+
+SR:article1115051  a   SR:Article ;
+        SO:has_author  "Igor Konnov 0001" ;
+        SO:has_id      "1115051" ;
+        SO:has_title   "Towards Modelling Adaptive Fault Tolerance for Resilient Computing Analysis." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SAFECOMP" ;
+        SO:has_year    "2016" .
+
+SR:article2915058  a   SR:Article ;
+        SO:has_author  "Esther Guerra" ;
+        SO:has_id      "2915058" ;
+        SO:has_title   "Towards an Alloy Formal Model for Flexible Advanced Transactional Model Development." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEW" ;
+        SO:has_year    "2009" .
+
+SR:article1863903  a   SR:Article ;
+        SO:has_author  "Hong Liu" ;
+        SO:has_id      "1863903" ;
+        SO:has_title   "A New Model for Error-Tolerant Side-Channel Cube Attacks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CHES" ;
+        SO:has_year    "2013" .
+
+SR:article452477  a    SR:Article ;
+        SO:has_author  "Byron DeVries" ;
+        SO:has_id      "452477" ;
+        SO:has_title   "Declarative project planning and controlling - a formal model to support the handling of unavoidable inconsistencies." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSSP" ;
+        SO:has_year    "2018" .
+
+SR:article2895352  a   SR:Article ;
+        SO:has_author  "Hong Mei" ;
+        SO:has_id      "2895352" ;
+        SO:has_title   "Enhanced Automation for Managing Model and Metamodel Inconsistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2009" .
+
+SR:article3112164  a   SR:Article ;
+        SO:has_author  "Hendrik Decker" ;
+        SO:has_id      "3112164" ;
+        SO:has_title   "Classifying integrity checking methods with regard to inconsistency tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "PPDP" ;
+        SO:has_year    "2008" .
+
+SR:article3628707  a   SR:Article ;
+        SO:has_author  "Ingrid Verbauwhede" ;
+        SO:has_id      "3628707" ;
+        SO:has_title   "A Formal Model for Fault-Tolerance in Distributed Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SAFECOMP" ;
+        SO:has_year    "2005" .
+
+SR:article2819125  a   SR:Article ;
+        SO:has_author  "Mahmoud El Hamlaoui" ;
+        SO:has_id      "2819125" ;
+        SO:has_title   "Checking Model Consistency Using Data-Flow Testing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2009" .
+
+SR:article2134288  a   SR:Article ;
+        SO:has_author  "Bo Wang" ;
+        SO:has_id      "2134288" ;
+        SO:has_title   "An Approach for Detecting Inconsistencies between Behavioral Models of the Software Architecture and the Code." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2012" .
+
+SR:article2910264  a   SR:Article ;
+        SO:has_author  "Xavier Blanc 0001" ;
+        SO:has_id      "2910264" ;
+        SO:has_title   "Composing Models for Detecting Inconsistencies - A Requirements Engineering Perspective." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "REFSQ" ;
+        SO:has_year    "2009" .
+
+SR:article3268996  a   SR:Article ;
+        SO:has_author  "Saloua Bennani" ;
+        SO:has_id      "3268996" ;
+        SO:has_title   "UML/Analyzer - A Tool for the Instant Consistency Checking of UML Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2007" .
+
+SR:article3616127  a   SR:Article ;
+        SO:has_author  "Erhan Leblebici" ;
+        SO:has_id      "3616127" ;
+        SO:has_title   "A tool for automatic UML model consistency checking." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2005" .
+
+SR:article2685133  a   SR:Article ;
+        SO:has_author  "Angelika Kusel" ;
+        SO:has_id      "2685133" ;
+        SO:has_title   "Static- and Dynamic Consistency Analysis of UML State Chart Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article3099504  a   SR:Article ;
+        SO:has_author  "Tom Mens" ;
+        SO:has_id      "3099504" ;
+        SO:has_title   "Generating and Evaluating Choices for Fixing Inconsistencies in UML Design Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2008" .
+
+SR:article679480  a    SR:Article ;
+        SO:has_author  "Romina Eramo" ;
+        SO:has_id      "679480" ;
+        SO:has_title   "Victim Communication Stack (VCS) - A flexible model to select the Human Attack Vector." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2017" .
+
+SR:article2894605  a   SR:Article ;
+        SO:has_author  "Liqiong Chen" ;
+        SO:has_id      "2894605" ;
+        SO:has_title   "Tamper-Tolerant Software - Modeling and Implementation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "IWSEC" ;
+        SO:has_year    "2009" .
+
+SR:article1878455  a   SR:Article ;
+        SO:has_author  "Tianyu Yang" ;
+        SO:has_id      "1878455" ;
+        SO:has_title   "Dependability models for designing disaster tolerant cloud computing systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2013" .
+
+SR:article3105850  a   SR:Article ;
+        SO:has_author  "Michalis Famelis" ;
+        SO:has_id      "3105850" ;
+        SO:has_title   "Automatically Generating Behavioral Models of Adaptive Systems to Address Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2008" .
+
+SR:article119880  a    SR:Article ;
+        SO:has_author  "Rick Salay" ;
+        SO:has_id      "119880" ;
+        SO:has_title   "Dealing with Uncertainty in Binary Logistic Regression Fault-proneness Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "EASE" ;
+        SO:has_year    "2019" .
+
+SR:article3299608  a   SR:Article ;
+        SO:has_author  "Sophie Ebersold" ;
+        SO:has_id      "3299608" ;
+        SO:has_title   "CheckFence - checking consistency of concurrent data types on relaxed memory models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "PLDI" ;
+        SO:has_year    "2007" .
+
+SR:article2478448  a   SR:Article ;
+        SO:has_author  "Oszkár Semeráth" ;
+        SO:has_id      "2478448" ;
+        SO:has_title   "Sound and Complete Monitoring of Sequential Consistency for Relaxed Memory Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TACAS" ;
+        SO:has_year    "2011" .
+
+SR:article2920811  a   SR:Article ;
+        SO:has_author  "Guisheng Fan" ;
+        SO:has_id      "2920811" ;
+        SO:has_title   "Modeling Fault Tolerant Services in Service-Oriented Architecture." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TASE" ;
+        SO:has_year    "2009" .
+
+SR:article797062  a    SR:Article ;
+        SO:has_author  "Juri Di Rocco" ;
+        SO:has_id      "797062" ;
+        SO:has_title   "Consistency Recovery in Interactive Modeling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article3467255  a   SR:Article ;
+        SO:has_author  "Kristof Berx" ;
+        SO:has_id      "3467255" ;
+        SO:has_title   "Detecting and Resolving Model Inconsistencies Using Transformation Dependency Analysis." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2006" .
+
+SR:article2685149  a   SR:Article ;
+        SO:has_author  "Ken Vanherpen" ;
+        SO:has_id      "2685149" ;
+        SO:has_title   "A Dynamic-Priority Based Approach to Fixing Inconsistent Feature Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article3626090  a   SR:Article ;
+        SO:has_author  "Anthony Anjorin" ;
+        SO:has_id      "3626090" ;
+        SO:has_title   "Transactors - a programming model for maintaining globally consistent distributed state in unreliable environments." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "POPL" ;
+        SO:has_year    "2005" .
+
+SR:article3054976  a   SR:Article ;
+        SO:has_author  "Mahmoud Nassar" ;
+        SO:has_id      "3054976" ;
+        SO:has_title   "Consistent Integration of Models Based on Views of Visual Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2008" .
+
+SR:article2920719  a   SR:Article ;
+        SO:has_author  "Sophie Ebersold" ;
+        SO:has_id      "2920719" ;
+        SO:has_title   "Consistency, Independence and Consequences in UML and OCL Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TAP" ;
+        SO:has_year    "2009" .
+
+SR:article2389546  a   SR:Article ;
+        SO:has_author  "Marsha Chechik" ;
+        SO:has_id      "2389546" ;
+        SO:has_title   "Formalizing model consistency based on the abstract syntax." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "EICS" ;
+        SO:has_year    "2011" .
+
+SR:article2356263  a   SR:Article ;
+        SO:has_author  "Steve M. Easterbrook" ;
+        SO:has_id      "2356263" ;
+        SO:has_title   "Consistency Checks for Duties in Extended UML2 Activity Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2011" .
+
+SR:article1418279  a   SR:Article ;
+        SO:has_author  "Jan Martijn E. M. van der Werf" ;
+        SO:has_id      "1418279" ;
+        SO:has_title   "Building consistent transactions with inconsistent replication." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SOSP" ;
+        SO:has_year    "2015" .
+
+SR:article4346495  a   SR:Article ;
+        SO:has_author  "Jeffrey M. Voas" ;
+        SO:has_id      "4346495" ;
+        SO:has_title   "Investigating rare-event failure tolerance - reductions in future uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "1996" .
+
+SR:article4040074  a   SR:Article ;
+        SO:has_author  "Kevin E. Dorow" ;
+        SO:has_id      "4040074" ;
+        SO:has_title   "Low-Cost Flexible Software Fault Tolerance for Distributed Computing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2001" .
+
+SR:article1028860  a   SR:Article ;
+        SO:has_author  "Jasper Schenkhuizen" ;
+        SO:has_id      "1028860" ;
+        SO:has_title   "Consistent Inconsistency Management - A Concern-Driven Approach." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ECSA" ;
+        SO:has_year    "2016" .
+
+SR:article804630  a    SR:Article ;
+        SO:has_author  "Iris Groher" ;
+        SO:has_id      "804630" ;
+        SO:has_title   "Ogre and Pythia - an invariance proof method for weak consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "POPL" ;
+        SO:has_year    "2017" .
+
+SR:article392731  a    SR:Article ;
+        SO:has_author  "Alexander Egyed" ;
+        SO:has_id      "392731" ;
+        SO:has_title   "AHM - Handling Heterogeneous Models Matching and Consistency via MDE." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ENASE" ;
+        SO:has_year    "2018" .
+
+SR:article3300826  a   SR:Article ;
+        SO:has_author  "Bernard Coulette" ;
+        SO:has_id      "3300826" ;
+        SO:has_title   "On the Collaborative Development of Para-Consistent Conceptual Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2007" .
+
+SR:article3712576  a   SR:Article ;
+        SO:has_author  "Bruno Silva 0001" ;
+        SO:has_id      "3712576" ;
+        SO:has_title   "Model Checking a Fault-Tolerant Startup Algorithm - From Design Exploration To Exhaustive Fault Simulation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2004" .
+
+SR:article2685115  a   SR:Article ;
+        SO:has_author  "Brice Morin" ;
+        SO:has_id      "2685115" ;
+        SO:has_title   "Flexible Model Element Introduction Policies for Aspect-Oriented Modeling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article3418320  a   SR:Article ;
+        SO:has_author  "Bernhard Schätz" ;
+        SO:has_id      "3418320" ;
+        SO:has_title   "Modeling and Evaluating the Survivability of an Intrusion Tolerant Database System." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ESORICS" ;
+        SO:has_year    "2006" .
+
+SR:article2458745  a   SR:Article ;
+        SO:has_author  "Olivier Giroux" ;
+        SO:has_id      "2458745" ;
+        SO:has_title   "Semantically Configurable Consistency Analysis for Class and Object Diagrams." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2011" .
+
+SR:article4721152  a   SR:Article ;
+        SO:has_author  "Daniel F. Fitch" ;
+        SO:has_id      "4721152" ;
+        SO:has_title   "Analytical Modelling of the Reliability of a Fault-Tolerant Computer-Copra." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "Performance" ;
+        SO:has_year    "1977" .
+
+SR:article1378637  a   SR:Article ;
+        SO:has_author  "Bran Selic" ;
+        SO:has_id      "1378637" ;
+        SO:has_title   "ArMOR - defending against memory consistency model mismatches in heterogeneous architectures." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISCA" ;
+        SO:has_year    "2015" .
+
+SR:article2466464  a   SR:Article ;
+        SO:has_author  "Hendrik Decker" ;
+        SO:has_id      "2466464" ;
+        SO:has_title   "Data Quality Maintenance by Integrity-Preserving Repairs that Tolerate Inconsistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2011" .
+
+SR:article726969  a    SR:Article ;
+        SO:has_author  "Wolfgang Heider" ;
+        SO:has_id      "726969" ;
+        SO:has_title   "Inter-model Consistency Checking Using Triple Graph Grammars and Linear Optimization Techniques." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2017" .
+
+SR:article430566  a    SR:Article ;
+        SO:has_author  "Hans Vangheluwe" ;
+        SO:has_id      "430566" ;
+        SO:has_title   "An automated and instant discovery of concrete repairs for model inconsistencies." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2018" .
+
+SR:article2357009  a   SR:Article ;
+        SO:has_author  "Vasileios Tenentes" ;
+        SO:has_id      "2357009" ;
+        SO:has_title   "Extended neglect tolerance model & human robot teams." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICICS" ;
+        SO:has_year    "2011" .
+
+SR:article2210629  a   SR:Article ;
+        SO:has_author  "Marcel Heinz" ;
+        SO:has_id      "2210629" ;
+        SO:has_title   "Incremental Consistency Checking for Complex Design Rules and Larger Model Changes." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article796995  a    SR:Article ;
+        SO:has_author  "István Dávid" ;
+        SO:has_id      "796995" ;
+        SO:has_title   "Modeling and Enactment Support for Early Detection of Inconsistencies in Engineering Processes." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article1870790  a   SR:Article ;
+        SO:has_author  "Pierre Kelsen" ;
+        SO:has_id      "1870790" ;
+        SO:has_title   "DBPowder - A Flexible Object-Relational Mapping Framework Based on a Conceptual Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2013" .
+
+SR:article4519081  a   SR:Article ;
+        SO:has_author  "Roland Kretschmer" ;
+        SO:has_id      "4519081" ;
+        SO:has_title   "Prototyping an Inconsistency Checking Tool for Software Process Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "1992" .
+
+SR:article3249851  a   SR:Article ;
+        SO:has_author  "Wafa Gabsi" ;
+        SO:has_id      "3249851" ;
+        SO:has_title   "Pattern-Based Modeling and Analysis of Failsafe Fault-Tolerance in UML." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2007" .
+
+SR:article3477690  a   SR:Article ;
+        SO:has_author  "Dániel Varró" ;
+        SO:has_id      "3477690" ;
+        SO:has_title   "Specifying Consistency Constraints for Modelling Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2006" .
+
+SR:article161287  a    SR:Article ;
+        SO:has_author  "Alessio Di Sandro" ;
+        SO:has_id      "161287" ;
+        SO:has_title   "Test Model Coverage Analysis Under Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEFM" ;
+        SO:has_year    "2019" .
+
+SR:article2428966  a   SR:Article ;
+        SO:has_author  "Haiyan Zhao" ;
+        SO:has_id      "2428966" ;
+        SO:has_title   "Inconsistency management framework for model-based development." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2011" .
+
+SR:article3474022  a   SR:Article ;
+        SO:has_author  "Michael Armbruster" ;
+        SO:has_id      "3474022" ;
+        SO:has_title   "Use Case-Based Modeling and Analysis of Failsafe Fault-Tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RE" ;
+        SO:has_year    "2006" .
+
+SR:article783280  a    SR:Article ;
+        SO:has_author  "Hui Song" ;
+        SO:has_id      "783280" ;
+        SO:has_title   "Models of Reliability of Fault-Tolerant Software Under Cyber-Attacks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2017" .
+
+SR:article2901057  a   SR:Article ;
+        SO:has_author  "Juergen Etzlstorfer" ;
+        SO:has_id      "2901057" ;
+        SO:has_title   "An Incremental Algorithm for High-Performance Runtime Model Consistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2009" .
+
+SR:article1883853  a   SR:Article ;
+        SO:has_author  "Leen Lambers" ;
+        SO:has_id      "1883853" ;
+        SO:has_title   "Heterogeneous Models Matching for Consistency Management." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ENASE" ;
+        SO:has_year    "2013" .
+
+SR:article1922518  a   SR:Article ;
+        SO:has_author  "Enrico Frumento" ;
+        SO:has_id      "1922518" ;
+        SO:has_title   "VERA - A Flexible Model-Based Vulnerability Testing Tool." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICST" ;
+        SO:has_year    "2013" .
+
+SR:article1043964  a   SR:Article ;
+        SO:has_author  "Ying Zhang 0012" ;
+        SO:has_id      "1043964" ;
+        SO:has_title   "Model Checking for the Fault Tolerance of Collaborative AUVs." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2016" .
+
+SR:article3105869  a   SR:Article ;
+        SO:has_author  "Elisabeth Kapsammer" ;
+        SO:has_id      "3105869" ;
+        SO:has_title   "Sufficient Criteria for Consistent Behavior Modeling with Refined Activity Diagrams." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2008" .
+
+SR:article999234  a    SR:Article ;
+        SO:has_author  "Florian Noyrit" ;
+        SO:has_id      "999234" ;
+        SO:has_title   "Observation-Based Concurrent Program Logic for Relaxed Memory Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APLAS" ;
+        SO:has_year    "2016" .
+
+SR:article3223677  a   SR:Article ;
+        SO:has_author  "Mahmoud El Hamlaoui" ;
+        SO:has_id      "3223677" ;
+        SO:has_title   "Consistent Modeling, Integration and Simulation of Molecular Interaction Networks in Space-Time Dimension." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "BIBE" ;
+        SO:has_year    "2007" .
+
+SR:article3080155  a   SR:Article ;
+        SO:has_author  "Bernard Coulette" ;
+        SO:has_id      "3080155" ;
+        SO:has_title   "Global consistency checking of distributed models with TReMer+." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2008" .
+
+SR:article378705  a    SR:Article ;
+        SO:has_author  "Marsha Chechik" ;
+        SO:has_id      "378705" ;
+        SO:has_title   "Towards Modelling and Reasoning About Uncertain Data of Sensor Measurements for Decision Support in Smart Spaces." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2018" .
+
+SR:article2136296  a   SR:Article ;
+        SO:has_author  "Shiva Nejati" ;
+        SO:has_id      "2136296" ;
+        SO:has_title   "Constraint-Based Consistency Checking between Design Decisions and Component Models for Supporting Software Architecture Evolution." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CSMR" ;
+        SO:has_year    "2012" .
+
+SR:article4596855  a   SR:Article ;
+        SO:has_author  "Louise E. Moser" ;
+        SO:has_id      "4596855" ;
+        SO:has_title   "Leases - An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SOSP" ;
+        SO:has_year    "1989" .
+
+SR:article1952192  a   SR:Article ;
+        SO:has_author  "Romina Eramo" ;
+        SO:has_id      "1952192" ;
+        SO:has_title   "Transformation of Models Containing Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2013" .
+
+SR:article2693743  a   SR:Article ;
+        SO:has_author  "Wei Zhang 0004" ;
+        SO:has_id      "2693743" ;
+        SO:has_title   "Techne - Towards a New Generation of Requirements Modeling Languages with Goals, Preferences, and Inconsistency Handling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RE" ;
+        SO:has_year    "2010" .
+
+SR:article4565741  a   SR:Article ;
+        SO:has_author  "Michael Poppleton" ;
+        SO:has_id      "4565741" ;
+        SO:has_title   "Modeling execution time of multi-stage N-version fault-tolerant software." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "1990" .
+
+SR:article2210561  a   SR:Article ;
+        SO:has_author  "Zhenjiang Hu" ;
+        SO:has_id      "2210561" ;
+        SO:has_title   "Evaluating the Impact of Aspects on Inconsistency Detection Effort - A Controlled Experiment." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article430840  a    SR:Article ;
+        SO:has_author  "Paul Grünbacher" ;
+        SO:has_id      "430840" ;
+        SO:has_title   "A graph solver for the automated generation of consistent domain-specific models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2018" .
+
+SR:article2377127  a   SR:Article ;
+        SO:has_author  "Gianni Rosa" ;
+        SO:has_id      "2377127" ;
+        SO:has_title   "Modeling the Uncertain Data in the K-anonymity Privacy Protection Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CIS" ;
+        SO:has_year    "2011" .
+
+SR:article4543652  a   SR:Article ;
+        SO:has_author  "Robert Balzer" ;
+        SO:has_id      "4543652" ;
+        SO:has_title   "Tolerating Inconsistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "1991" .
+
+SR:article1043959  a   SR:Article ;
+        SO:has_author  "François Terrier" ;
+        SO:has_id      "1043959" ;
+        SO:has_title   "Runtime Adjustment of Configuration Models for Consistency Preservation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2016" .
+
+SR:article1393657  a   SR:Article ;
+        SO:has_author  "Christian Schwarzl" ;
+        SO:has_id      "1393657" ;
+        SO:has_title   "Efficient GPU synchronization without scopes - saying no to complex consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MICRO" ;
+        SO:has_year    "2015" .
+
+SR:article2470352  a   SR:Article ;
+        SO:has_author  "William Excoffon" ;
+        SO:has_id      "2470352" ;
+        SO:has_title   "Modeling and tolerating heterogeneous failures in large parallel systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SC" ;
+        SO:has_year    "2011" .
+
+SR:article804691  a    SR:Article ;
+        SO:has_author  "Alexander Egyed" ;
+        SO:has_id      "804691" ;
+        SO:has_title   "Automatically comparing memory consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "POPL" ;
+        SO:has_year    "2017" .
+@prefix RDFLABEL: <http://www.w3.org/2000/01/rdf-schema#label> .
+@prefix SO:    <http://dblp.org/ontology#> .
+@prefix SR:    <http://dblp.org/resource#> .
+
+SR:article3708150  a   SR:Article ;
+        SO:has_author  "Doowon Lee" ;
+        SO:has_id      "3708150" ;
+        SO:has_title   "Automated Consistency and Completeness Checking of Testing Models for Interactive Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2004" .
+
+SR:article1970304  a   SR:Article ;
+        SO:has_author  "Davide Andreoletti" ;
+        SO:has_id      "1970304" ;
+        SO:has_title   "Designing flexible access control models for the cloud." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SIN" ;
+        SO:has_year    "2013" .
+
+SR:article2819084  a   SR:Article ;
+        SO:has_author  "Michaël Lauer" ;
+        SO:has_id      "2819084" ;
+        SO:has_title   "A Method for Modeling and Analyzing Fault-Tolerant Service Composition." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2009" .
+
+SR:article2425330  a   SR:Article ;
+        SO:has_author  "Sameer Sahasrabuddhe" ;
+        SO:has_id      "2425330" ;
+        SO:has_title   "Fine-Tuning Model Transformation - Change Propagation in Context of Consistency, Completeness, and Human Guidance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICMT" ;
+        SO:has_year    "2011" .
+
+SR:article3584506  a   SR:Article ;
+        SO:has_author  "Bin Zhang 0003" ;
+        SO:has_id      "3584506" ;
+        SO:has_title   "Linear Randomized Voting Algorithm for Fault Tolerant Sensor Fusion and the Corresponding Reliability Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2005" .
+
+SR:article777670  a    SR:Article ;
+        SO:has_author  "Gerald Holl" ;
+        SO:has_id      "777670" ;
+        SO:has_title   "MTraceCheck - Validating Non-Deterministic Behavior of Memory Consistency Models in Post-Silicon Validation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISCA" ;
+        SO:has_year    "2017" .
+
+SR:article3293827  a   SR:Article ;
+        SO:has_author  "Ragnhild Van Der Straeten" ;
+        SO:has_id      "3293827" ;
+        SO:has_title   "Improving Inconsistency Resolution with Side-Effect Evaluation and Costs." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2007" .
+
+SR:article2225163  a   SR:Article ;
+        SO:has_author  "Mauricio D. Gutierrez" ;
+        SO:has_id      "2225163" ;
+        SO:has_title   "A Petri Net Model for Secure and Fault-Tolerant Cloud-Based Information Storage." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2012" .
+
+SR:article3226909  a   SR:Article ;
+        SO:has_author  "Soontaree Tanaraksiritavorn" ;
+        SO:has_id      "3226909" ;
+        SO:has_title   "Flexible intrusion tolerant voting architecture." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "STC" ;
+        SO:has_year    "2007" .
+
+SR:article1579227  a   SR:Article ;
+        SO:has_author  "Christopher Wolfe" ;
+        SO:has_id      "1579227" ;
+        SO:has_title   "Efficiently and Completely Verifying Synchronized Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ATVA" ;
+        SO:has_year    "2014" .
+
+SR:article709375  a    SR:Article ;
+        SO:has_author  "Alfonso Pierantonio" ;
+        SO:has_id      "709375" ;
+        SO:has_title   "A Modeling Approach for Flexible Workflow Applications of Cloud Services." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2017" .
+
+SR:article689294  a    SR:Article ;
+        SO:has_author  "Betty H. C. Cheng" ;
+        SO:has_id      "689294" ;
+        SO:has_title   "From Abstract to Concrete Repairs of Model Inconsistencies - An Automated Approach." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2017" .
+
+SR:article2604034  a   SR:Article ;
+        SO:has_author  "Aren A. Babikian" ;
+        SO:has_id      "2604034" ;
+        SO:has_title   "On Constructing Thermodynamically Consistent Parametrizations of Kinetic Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "BIBE" ;
+        SO:has_year    "2010" .
+
+SR:article1645915  a   SR:Article ;
+        SO:has_author  "Barbara Gallina" ;
+        SO:has_id      "1645915" ;
+        SO:has_title   "Controlled modeling environment using flexibly-formatted spreadsheets." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2014" .
+
+SR:article3214905  a   SR:Article ;
+        SO:has_author  "Yunxiang Liu" ;
+        SO:has_id      "3214905" ;
+        SO:has_title   "Fault-Tolerant Semi-Passive Coordination Protocol for a Multi-Actuator/Multi-Sensor (MAMS) Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2007" .
+
+SR:article3408007  a   SR:Article ;
+        SO:has_author  "András Szabolcs Nagy" ;
+        SO:has_id      "3408007" ;
+        SO:has_title   "Ontology-Based RFID System Model for Supporting Semantic Consistency in Ubiquitous Environment." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CIS" ;
+        SO:has_year    "2006" .
+
+SR:article1000899  a   SR:Article ;
+        SO:has_author  "Sébastien Gérard" ;
+        SO:has_id      "1000899" ;
+        SO:has_title   "Specifying and Checking File System Crash-Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASPLOS" ;
+        SO:has_year    "2016" .
+
+SR:article797021  a    SR:Article ;
+        SO:has_author  "Jean-Marc Jézéquel" ;
+        SO:has_id      "797021" ;
+        SO:has_title   "The Conformance Relation Challenge - Building Flexible Modelling Frameworks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article2666261  a   SR:Article ;
+        SO:has_author  "Azalea Raad" ;
+        SO:has_id      "2666261" ;
+        SO:has_title   "A self-consistent model to estimate NBTI degradation and a comprehensive on-line system lifetime enhancement technique." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "IOLTS" ;
+        SO:has_year    "2010" .
+
+SR:article1963556  a   SR:Article ;
+        SO:has_author  "Federica Freschi" ;
+        SO:has_id      "1963556" ;
+        SO:has_title   "A flexible framework for modeling and simulation of multipurpose wireless networks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RSP" ;
+        SO:has_year    "2013" .
+
+SR:article467246  a    SR:Article ;
+        SO:has_author  "Jacques Klein" ;
+        SO:has_id      "467246" ;
+        SO:has_title   "On the Quest for Flexible Modelling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2018" .
+
+SR:article4286426  a   SR:Article ;
+        SO:has_author  "Gintautas Sulskus" ;
+        SO:has_id      "4286426" ;
+        SO:has_title   "Model Checking and Fault Tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "AMAST" ;
+        SO:has_year    "1997" .
+
+SR:article3317904  a   SR:Article ;
+        SO:has_author  "Slinger Jansen" ;
+        SO:has_id      "3317904" ;
+        SO:has_title   "A Study of Consistent and Inconsistent Changes to Code Clones." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "WCRE" ;
+        SO:has_year    "2007" .
+
+SR:article1080091  a   SR:Article ;
+        SO:has_author  "Ilina Stoilkovska" ;
+        SO:has_id      "1080091" ;
+        SO:has_title   "Susceptible workload driven selective fault tolerance using a probabilistic fault model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "IOLTS" ;
+        SO:has_year    "2016" .
+
+SR:article392732  a    SR:Article ;
+        SO:has_author  "Michael Vierhauser" ;
+        SO:has_id      "392732" ;
+        SO:has_title   "A MDE Approach for Heterogeneous Models Consistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ENASE" ;
+        SO:has_year    "2018" .
+
+SR:article3249865  a   SR:Article ;
+        SO:has_author  "Bechir Zalila" ;
+        SO:has_id      "3249865" ;
+        SO:has_title   "Preliminary Models of the Cost of Fault Tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2007" .
+
+SR:article3744320  a   SR:Article ;
+        SO:has_author  "Swarnendu Biswas" ;
+        SO:has_id      "3744320" ;
+        SO:has_title   "TSOtool - A Program for Verifying Memory Systems Using the Memory Consistency Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISCA" ;
+        SO:has_year    "2004" .
+
+SR:article3301052  a   SR:Article ;
+        SO:has_author  "Werner Retschitzegger" ;
+        SO:has_id      "3301052" ;
+        SO:has_title   "Consistency Checking of Conceptual Models via Model Merging." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RE" ;
+        SO:has_year    "2007" .
+
+SR:article786949  a    SR:Article ;
+        SO:has_author  "Daniela Lettner" ;
+        SO:has_id      "786949" ;
+        SO:has_title   "Avoiding consistency exceptions under strong memory models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISMM" ;
+        SO:has_year    "2017" .
+
+SR:article2685116  a   SR:Article ;
+        SO:has_author  "Alfonso Pierantonio" ;
+        SO:has_id      "2685116" ;
+        SO:has_title   "Consistent Modeling Using Multiple UML Profiles." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article2387277  a   SR:Article ;
+        SO:has_author  "Tom J. Kazmierski" ;
+        SO:has_id      "2387277" ;
+        SO:has_title   "Efficient model checking of fault-tolerant distributed protocols." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2011" .
+
+SR:article2210672  a   SR:Article ;
+        SO:has_author  "Yihan Wu" ;
+        SO:has_id      "2210672" ;
+        SO:has_title   "Model Driven Configuration of Fault Tolerance Solutions for Component-Based Software System." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article1117278  a   SR:Article ;
+        SO:has_author  "Josef Widder" ;
+        SO:has_id      "1117278" ;
+        SO:has_title   "Modeling and analyzing cost-aware fault tolerant strategy for cloud application." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2016" .
+
+SR:article1879957  a   SR:Article ;
+        SO:has_author  "Stefan Jurack" ;
+        SO:has_id      "1879957" ;
+        SO:has_title   "Supporting Consistency between Architectural Design Decisions and Component Models through Reusable Architectural Knowledge Transformations." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ECSA" ;
+        SO:has_year    "2013" .
+
+SR:article453064  a    SR:Article ;
+        SO:has_author  "Rick Salay" ;
+        SO:has_id      "453064" ;
+        SO:has_title   "Online Model-Based Testing under Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2018" .
+
+SR:article2397483  a   SR:Article ;
+        SO:has_author  "Daniel Lustig" ;
+        SO:has_id      "2397483" ;
+        SO:has_title   "Modeling with Plausibility Checking - Inspecting Favorable and Critical Signs for Consistency between Control Flow and Functional Behavior." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2011" .
+
+SR:article796996  a    SR:Article ;
+        SO:has_author  "Bart Meyers" ;
+        SO:has_id      "796996" ;
+        SO:has_title   "Using Models at Run Time to Detect Incomplete and Inconsistent Requirements." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article467333  a    SR:Article ;
+        SO:has_author  "Marco Brambilla 0001" ;
+        SO:has_id      "467333" ;
+        SO:has_title   "Towards sound, optimal, and flexible building from megamodels." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2018" .
+
+SR:article141465  a    SR:Article ;
+        SO:has_author  "Johannes Schönböck" ;
+        SO:has_id      "141465" ;
+        SO:has_title   "Viatra solver - a framework for the automated generation of consistent domain-specific models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2019" .
+
+SR:article3708161  a   SR:Article ;
+        SO:has_author  "Valeria Bertacco" ;
+        SO:has_id      "3708161" ;
+        SO:has_title   "Consistency Check in Modelling Multi-Agent Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2004" .
+
+SR:article709399  a    SR:Article ;
+        SO:has_author  "Gianni Rosa" ;
+        SO:has_id      "709399" ;
+        SO:has_title   "From Sequence Diagrams to Event B - A Specification and Verification Approach of Flexible Workflow Applications of Cloud Services Based on Meta-model Transformation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2017" .
+
+SR:article1692437  a   SR:Article ;
+        SO:has_author  "Peter Popov" ;
+        SO:has_id      "1692437" ;
+        SO:has_title   "A Formal Model for Constraint-Based Deployment Calculation and Analysis for Fault-Tolerant Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEFM" ;
+        SO:has_year    "2014" .
+
+SR:article1921518  a   SR:Article ;
+        SO:has_author  "Perdita Stevens" ;
+        SO:has_id      "1921518" ;
+        SO:has_title   "Modes, features, and state-based modeling for clarity and flexibility." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MiSE" ;
+        SO:has_year    "2013" .
+
+SR:article158379  a    SR:Article ;
+        SO:has_author  "Alexander Reder" ;
+        SO:has_id      "158379" ;
+        SO:has_title   "Model checking for weakly consistent libraries." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "PLDI" ;
+        SO:has_year    "2019" .
+
+SR:article3268995  a   SR:Article ;
+        SO:has_author  "Tom Mens" ;
+        SO:has_id      "3268995" ;
+        SO:has_title   "Fixing Inconsistencies in UML Design Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2007" .
+
+SR:article2221749  a   SR:Article ;
+        SO:has_author  "Sotirios Liaskos" ;
+        SO:has_id      "2221749" ;
+        SO:has_title   "Maximal Causal Models for Sequentially Consistent Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RV" ;
+        SO:has_year    "2012" .
+
+SR:article1421088  a   SR:Article ;
+        SO:has_author  "Bernhard Peischl" ;
+        SO:has_id      "1421088" ;
+        SO:has_title   "Checking UML and OCL Model Consistency - An Experience Report on a Middle-Sized Case Study." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TAP" ;
+        SO:has_year    "2015" .
+
+SR:article3400188  a   SR:Article ;
+        SO:has_author  "Klaus Becker 0001" ;
+        SO:has_id      "3400188" ;
+        SO:has_title   "Modeling and Customization of Fault Tolerant Architecture using Object-Z/XVCL." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2006" .
+
+SR:article3630092  a   SR:Article ;
+        SO:has_author  "Andy Schürr" ;
+        SO:has_id      "3630092" ;
+        SO:has_title   "Loosely-coupled Consistency between Agent-oriented Conceptual Models and Z Specifications." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2005" .
+
+SR:article1612868  a   SR:Article ;
+        SO:has_author  "Perdita Stevens" ;
+        SO:has_id      "1612868" ;
+        SO:has_title   "Bidirectionally Tolerating Inconsistency - Partial Transformations." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2014" .
+
+SR:article2656638  a   SR:Article ;
+        SO:has_author  "Michalis Kokologiannakis" ;
+        SO:has_id      "2656638" ;
+        SO:has_title   "A proposal for consistency checking in dynamic software product line models using OCL." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2010" .
+
+SR:article431563  a    SR:Article ;
+        SO:has_author  "Michalis Famelis" ;
+        SO:has_id      "431563" ;
+        SO:has_title   "Uncovering Unknown System Behaviors in Uncertain Networks with Model and Search-Based Testing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICST" ;
+        SO:has_year    "2018" .
+
+SR:article2614918  a   SR:Article ;
+        SO:has_author  "Sebastian Pilarski" ;
+        SO:has_id      "2614918" ;
+        SO:has_title   "A Consistency Model for Identity Information in Distributed Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2010" .
+
+SR:article2178935  a   SR:Article ;
+        SO:has_author  "Alfonso Pierantonio" ;
+        SO:has_id      "2178935" ;
+        SO:has_title   "Partial models - Towards modeling and reasoning with uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2012" .
+
+SR:article3269265  a   SR:Article ;
+        SO:has_author  "Mahmoud Nassar" ;
+        SO:has_id      "3269265" ;
+        SO:has_title   "Formal Verification of Consistency between Feature Model and Software Architecture in Software Product Line." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSEA" ;
+        SO:has_year    "2007" .
+
+SR:article1397075  a   SR:Article ;
+        SO:has_author  "Davide Di Ruscio" ;
+        SO:has_id      "1397075" ;
+        SO:has_title   "Consistent co-evolution of models and transformations." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2015" .
+
+SR:article4187985  a   SR:Article ;
+        SO:has_author  "Eduardo Tavares" ;
+        SO:has_id      "4187985" ;
+        SO:has_title   "Combining Fault Avoidance, Fault Removal and Fault Tolerance - An Integrated Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "1999" .
+
+SR:article2627518  a   SR:Article ;
+        SO:has_author  "Dániel Varró" ;
+        SO:has_id      "2627518" ;
+        SO:has_title   "Proving Consistency and Completeness of Model Classes Using Theory Interpretation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2010" .
+
+SR:article2678180  a   SR:Article ;
+        SO:has_author  "Michael Vierhauser" , "Viktor Vafeiadis" ;
+        SO:has_id      "2678180" ;
+        SO:has_title   "Flexible and scalable consistency checking on product line variability models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2010" .
+
+SR:article710442  a    SR:Article ;
+        SO:has_author  "Eric Umuhoza" ;
+        SO:has_id      "710442" ;
+        SO:has_title   "An Optimization Model for 3D Pipe Routing with Flexibility Constraints." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CP" ;
+        SO:has_year    "2017" .
+
+SR:article1922364  a   SR:Article ;
+        SO:has_author  "Katharina Mehner" ;
+        SO:has_id      "1922364" ;
+        SO:has_title   "Validating Consistency between a Feature Model and Its Implementation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSR" ;
+        SO:has_year    "2013" .
+
+SR:article3708506  a   SR:Article ;
+        SO:has_author  "Minjia Zhang" ;
+        SO:has_id      "3708506" ;
+        SO:has_title   "Consistency and Random Constraint Satisfaction Models with a High Constraint Tightness." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CP" ;
+        SO:has_year    "2004" .
+
+SR:article4193088  a   SR:Article ;
+        SO:has_author  "Armin Zimmermann" ;
+        SO:has_id      "4193088" ;
+        SO:has_title   "Hierarchical Reliability and Safety Models of Fault Tolerant Distributed Industrial Control Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SAFECOMP" ;
+        SO:has_year    "1999" .
+
+SR:article1118219  a   SR:Article ;
+        SO:has_author  "Florian Zuleger" ;
+        SO:has_id      "1118219" ;
+        SO:has_title   "EMA2AOP - From the AADL Error Model Annex to aspect language towards fault tolerant systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SERA" ;
+        SO:has_year    "2016" .
+
+SR:article2693460  a   SR:Article ;
+        SO:has_author  "Paul Grünbacher" ;
+        SO:has_id      "2693460" ;
+        SO:has_title   "Open Code Coverage Framework - A Consistent and Flexible Framework for Measuring Test Coverage Supporting Multiple Programming Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2010" .
+
+SR:article3835661  a   SR:Article ;
+        SO:has_author  "Wenbing Zhao 0001" ;
+        SO:has_id      "3835661" ;
+        SO:has_title   "Design and Implementation of a Consistent Time Service for Fault-Tolerant Distributed Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2003" .
+
+SR:article3874473  a   SR:Article ;
+        SO:has_author  "Maja D'Hondt" ;
+        SO:has_id      "3874473" ;
+        SO:has_title   "Using Critiquing Systems for Inconsistency Detection in Software Engineering Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2003" .
+
+SR:article4310545  a   SR:Article ;
+        SO:has_author  "Alexander Egyed" ;
+        SO:has_id      "4310545" ;
+        SO:has_title   "Flexible Update Propagation for Weakly Consistent Replication." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SOSP" ;
+        SO:has_year    "1997" .
+
+SR:article2848021  a   SR:Article ;
+        SO:has_author  "Saloua Bennani" ;
+        SO:has_id      "2848021" ;
+        SO:has_title   "Proving Consistency of Pure Methods and Model Fields." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2009" .
+
+SR:article1595172  a   SR:Article ;
+        SO:has_author  "T. C. Nicholas Graham" ;
+        SO:has_id      "1595172" ;
+        SO:has_title   "Towards Model-and-Code Consistency Checking." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2014" .
+
+SR:article1382513  a   SR:Article ;
+        SO:has_author  "Jean-Sébastien Sottet" ;
+        SO:has_id      "1382513" ;
+        SO:has_title   "Process model for rapid implementation of features using flexible architecture." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSSP" ;
+        SO:has_year    "2015" .
+
+SR:article1943505  a   SR:Article ;
+        SO:has_author  "Gabriele Taentzer" ;
+        SO:has_id      "1943505" ;
+        SO:has_title   "Safety-first approach to memory consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISMM" ;
+        SO:has_year    "2013" .
+
+SR:article3831497  a   SR:Article ;
+        SO:has_author  "Shivakant Mishra" ;
+        SO:has_id      "3831497" ;
+        SO:has_title   "Flexible Fault Tolerance in Configurable Middleware for Embedded Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2003" .
+
+SR:article3584507  a   SR:Article ;
+        SO:has_author  "Junfeng Fan" ;
+        SO:has_id      "3584507" ;
+        SO:has_title   "Design and Analysis of Fault Tolerant Architectures by Model Weaving." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2005" .
+
+SR:article3574372  a   SR:Article ;
+        SO:has_author  "Zhenqi Li" ;
+        SO:has_id      "3574372" ;
+        SO:has_title   "A Hybrid and Adaptive Model for Fault-Tolerant Distributed Computing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2005" .
+
+SR:article3574351  a   SR:Article ;
+        SO:has_author  "Christian Buckl" ;
+        SO:has_id      "3574351" ;
+        SO:has_title   "H-RAFT - Heuristic Reachability Analysis for Fault Tolerance Protocols Modelled in SDL." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2005" .
+
+SR:article3079937  a   SR:Article ;
+        SO:has_author  "Yentl Van Tendeloo" ;
+        SO:has_id      "3079937" ;
+        SO:has_title   "Detecting model inconsistency through operation-based model construction." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2008" .
+
+SR:article2900965  a   SR:Article ;
+        SO:has_author  "Eric Umuhoza" ;
+        SO:has_id      "2900965" ;
+        SO:has_title   "A Goal-Based Modeling Approach to Develop Requirements of an Adaptive System with Environmental Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2009" .
+
+SR:article796952  a    SR:Article ;
+        SO:has_author  "Jörg Kienzle" , "Marco Brambilla 0001" ;
+        SO:has_id      "796952" ;
+        SO:has_title   "Enhancing Flexibility in User Interaction Modeling by Adding Design Uncertainty to IFML." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article3028971  a   SR:Article ;
+        SO:has_author  "Isabelle Mounier" ;
+        SO:has_id      "3028971" ;
+        SO:has_title   "A Measurement-Driven Process Model for Managing Inconsistent Software Requirements." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2008" .
+
+SR:article2202767  a   SR:Article ;
+        SO:has_author  "Yingfei Xiong" ;
+        SO:has_id      "2202767" ;
+        SO:has_title   "Computing repair trees for resolving inconsistencies in design models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2012" .
+
+SR:article1675340  a   SR:Article ;
+        SO:has_author  "W. Greg Phillips" ;
+        SO:has_id      "1675340" ;
+        SO:has_title   "Pipe Check - Specifying and Verifying Microarchitectural Enforcement of Memory Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MICRO" ;
+        SO:has_year    "2014" .
+
+SR:article3400178  a   SR:Article ;
+        SO:has_author  "Oszkár Semeráth" ;
+        SO:has_id      "3400178" ;
+        SO:has_title   "Inter-Model Consistency in UML Based on CPN Formalism." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2006" .
+
+SR:article3080856  a   SR:Article ;
+        SO:has_author  "Alix Mougenot" ;
+        SO:has_id      "3080856" ;
+        SO:has_title   "Detecting and Repairing Inconsistencies across Heterogeneous Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICST" ;
+        SO:has_year    "2008" .
+
+SR:article2594435  a   SR:Article ;
+        SO:has_author  "Jean-Charles Fabre" ;
+        SO:has_id      "2594435" ;
+        SO:has_title   "A Semi-Markov Survivability Evaluation Model for Intrusion Tolerant Database Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2010" .
+
+SR:article4034468  a   SR:Article ;
+        SO:has_author  "Davide Martinenghi" ;
+        SO:has_id      "4034468" ;
+        SO:has_title   "\"Tolerating Inconsistency\" Revisited." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2001" .
+
+SR:article108971  a    SR:Article ;
+        SO:has_author  "Wieland Schwinger" ;
+        SO:has_id      "108971" ;
+        SO:has_title   "A Formal Analysis of the NVIDIA PTX Memory Consistency Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASPLOS" ;
+        SO:has_year    "2019" .
+
+SR:article1913150  a   SR:Article ;
+        SO:has_author  "Kathi Hogshead Davis" ;
+        SO:has_id      "1913150" ;
+        SO:has_title   "Slicing the V-Model - Reduced Effort, Higher Flexibility." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICGSE" ;
+        SO:has_year    "2013" .
+
+SR:article3285157  a   SR:Article ;
+        SO:has_author  "Mohamed Jmaïel" ;
+        SO:has_id      "3285157" ;
+        SO:has_title   "Software Reliability Modeling with Test Coverage - Experimentation and Measurement with A Fault-Tolerant Software Project." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2007" .
+
+SR:article1944193  a   SR:Article ;
+        SO:has_author  "Mehrdad Sabetzadeh" ;
+        SO:has_id      "1944193" ;
+        SO:has_title   "Consistency-preserving edit scripts in model versioning." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2013" .
+
+SR:article2118149  a   SR:Article ;
+        SO:has_author  "Jing Wang" ;
+        SO:has_id      "2118149" ;
+        SO:has_title   "A Pattern for Modelling Fault Tolerant Systems in Event-B." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ABZ" ;
+        SO:has_year    "2012" .
+
+SR:article2685080  a   SR:Article ;
+        SO:has_author  "Ralf Lämmel" ;
+        SO:has_id      "2685080" ;
+        SO:has_title   "Selective and Consistent Undoing of Model Changes." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article2210665  a   SR:Article ;
+        SO:has_author  "Ludovico Iovino" ;
+        SO:has_id      "2210665" ;
+        SO:has_title   "Applying a Consistency Checking Framework for Heterogeneous Models and Artifacts in Industrial Product Lines." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article165879  a    SR:Article ;
+        SO:has_author  "Gang Huang 0001" ;
+        SO:has_id      "165879" ;
+        SO:has_title   "Verifying Safety of Synchronous Fault-Tolerant Algorithms by Bounded Model Checking." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TACAS" ;
+        SO:has_year    "2019" .
+
+SR:article1692543  a   SR:Article ;
+        SO:has_author  "Nicolas Guelfi" ;
+        SO:has_id      "1692543" ;
+        SO:has_title   "Flexible Modeling and Product Derivation in Software Product Lines." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2014" .
+
+SR:article4361635  a   SR:Article ;
+        SO:has_author  "Juan de Lara" ;
+        SO:has_id      "4361635" ;
+        SO:has_title   "Combining a Flexible Data Model and Phase Schema Translation in Data Model Reverse Engineering." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "WCRE" ;
+        SO:has_year    "1996" .
+
+SR:article1310780  a   SR:Article ;
+        SO:has_author  "Nicolas Hili" ;
+        SO:has_id      "1310780" ;
+        SO:has_title   "Towards Model-Driven Variability-Based Flexible Service Compositions." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2015" .
+
+SR:article3874413  a   SR:Article ;
+        SO:has_author  "Paulo Romero Martins Maciel" ;
+        SO:has_id      "3874413" ;
+        SO:has_title   "Specification and Validation of Fault-Tolerant Software Architectures Based on Actor Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2003" .
+
+SR:article1115051  a   SR:Article ;
+        SO:has_author  "Igor Konnov 0001" ;
+        SO:has_id      "1115051" ;
+        SO:has_title   "Towards Modelling Adaptive Fault Tolerance for Resilient Computing Analysis." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SAFECOMP" ;
+        SO:has_year    "2016" .
+
+SR:article2915058  a   SR:Article ;
+        SO:has_author  "Esther Guerra" ;
+        SO:has_id      "2915058" ;
+        SO:has_title   "Towards an Alloy Formal Model for Flexible Advanced Transactional Model Development." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEW" ;
+        SO:has_year    "2009" .
+
+SR:article1863903  a   SR:Article ;
+        SO:has_author  "Hong Liu" ;
+        SO:has_id      "1863903" ;
+        SO:has_title   "A New Model for Error-Tolerant Side-Channel Cube Attacks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CHES" ;
+        SO:has_year    "2013" .
+
+SR:article452477  a    SR:Article ;
+        SO:has_author  "Byron DeVries" ;
+        SO:has_id      "452477" ;
+        SO:has_title   "Declarative project planning and controlling - a formal model to support the handling of unavoidable inconsistencies." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSSP" ;
+        SO:has_year    "2018" .
+
+SR:article2895352  a   SR:Article ;
+        SO:has_author  "Hong Mei" ;
+        SO:has_id      "2895352" ;
+        SO:has_title   "Enhanced Automation for Managing Model and Metamodel Inconsistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2009" .
+
+SR:article3112164  a   SR:Article ;
+        SO:has_author  "Hendrik Decker" ;
+        SO:has_id      "3112164" ;
+        SO:has_title   "Classifying integrity checking methods with regard to inconsistency tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "PPDP" ;
+        SO:has_year    "2008" .
+
+SR:article3628707  a   SR:Article ;
+        SO:has_author  "Ingrid Verbauwhede" ;
+        SO:has_id      "3628707" ;
+        SO:has_title   "A Formal Model for Fault-Tolerance in Distributed Systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SAFECOMP" ;
+        SO:has_year    "2005" .
+
+SR:article2819125  a   SR:Article ;
+        SO:has_author  "Mahmoud El Hamlaoui" ;
+        SO:has_id      "2819125" ;
+        SO:has_title   "Checking Model Consistency Using Data-Flow Testing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APSEC" ;
+        SO:has_year    "2009" .
+
+SR:article2134288  a   SR:Article ;
+        SO:has_author  "Bo Wang" ;
+        SO:has_id      "2134288" ;
+        SO:has_title   "An Approach for Detecting Inconsistencies between Behavioral Models of the Software Architecture and the Code." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2012" .
+
+SR:article2910264  a   SR:Article ;
+        SO:has_author  "Xavier Blanc 0001" ;
+        SO:has_id      "2910264" ;
+        SO:has_title   "Composing Models for Detecting Inconsistencies - A Requirements Engineering Perspective." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "REFSQ" ;
+        SO:has_year    "2009" .
+
+SR:article3268996  a   SR:Article ;
+        SO:has_author  "Saloua Bennani" ;
+        SO:has_id      "3268996" ;
+        SO:has_title   "UML/Analyzer - A Tool for the Instant Consistency Checking of UML Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2007" .
+
+SR:article3616127  a   SR:Article ;
+        SO:has_author  "Erhan Leblebici" ;
+        SO:has_id      "3616127" ;
+        SO:has_title   "A tool for automatic UML model consistency checking." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2005" .
+
+SR:article2685133  a   SR:Article ;
+        SO:has_author  "Angelika Kusel" ;
+        SO:has_id      "2685133" ;
+        SO:has_title   "Static- and Dynamic Consistency Analysis of UML State Chart Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article3099504  a   SR:Article ;
+        SO:has_author  "Tom Mens" ;
+        SO:has_id      "3099504" ;
+        SO:has_title   "Generating and Evaluating Choices for Fixing Inconsistencies in UML Design Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2008" .
+
+SR:article679480  a    SR:Article ;
+        SO:has_author  "Romina Eramo" ;
+        SO:has_id      "679480" ;
+        SO:has_title   "Victim Communication Stack (VCS) - A flexible model to select the Human Attack Vector." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2017" .
+
+SR:article2894605  a   SR:Article ;
+        SO:has_author  "Liqiong Chen" ;
+        SO:has_id      "2894605" ;
+        SO:has_title   "Tamper-Tolerant Software - Modeling and Implementation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "IWSEC" ;
+        SO:has_year    "2009" .
+
+SR:article1878455  a   SR:Article ;
+        SO:has_author  "Tianyu Yang" ;
+        SO:has_id      "1878455" ;
+        SO:has_title   "Dependability models for designing disaster tolerant cloud computing systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2013" .
+
+SR:article3105850  a   SR:Article ;
+        SO:has_author  "Michalis Famelis" ;
+        SO:has_id      "3105850" ;
+        SO:has_title   "Automatically Generating Behavioral Models of Adaptive Systems to Address Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2008" .
+
+SR:article119880  a    SR:Article ;
+        SO:has_author  "Rick Salay" ;
+        SO:has_id      "119880" ;
+        SO:has_title   "Dealing with Uncertainty in Binary Logistic Regression Fault-proneness Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "EASE" ;
+        SO:has_year    "2019" .
+
+SR:article3299608  a   SR:Article ;
+        SO:has_author  "Sophie Ebersold" ;
+        SO:has_id      "3299608" ;
+        SO:has_title   "CheckFence - checking consistency of concurrent data types on relaxed memory models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "PLDI" ;
+        SO:has_year    "2007" .
+
+SR:article2478448  a   SR:Article ;
+        SO:has_author  "Oszkár Semeráth" ;
+        SO:has_id      "2478448" ;
+        SO:has_title   "Sound and Complete Monitoring of Sequential Consistency for Relaxed Memory Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TACAS" ;
+        SO:has_year    "2011" .
+
+SR:article2920811  a   SR:Article ;
+        SO:has_author  "Guisheng Fan" ;
+        SO:has_id      "2920811" ;
+        SO:has_title   "Modeling Fault Tolerant Services in Service-Oriented Architecture." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TASE" ;
+        SO:has_year    "2009" .
+
+SR:article797062  a    SR:Article ;
+        SO:has_author  "Juri Di Rocco" ;
+        SO:has_id      "797062" ;
+        SO:has_title   "Consistency Recovery in Interactive Modeling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article3467255  a   SR:Article ;
+        SO:has_author  "Kristof Berx" ;
+        SO:has_id      "3467255" ;
+        SO:has_title   "Detecting and Resolving Model Inconsistencies Using Transformation Dependency Analysis." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2006" .
+
+SR:article2685149  a   SR:Article ;
+        SO:has_author  "Ken Vanherpen" ;
+        SO:has_id      "2685149" ;
+        SO:has_title   "A Dynamic-Priority Based Approach to Fixing Inconsistent Feature Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article3626090  a   SR:Article ;
+        SO:has_author  "Anthony Anjorin" ;
+        SO:has_id      "3626090" ;
+        SO:has_title   "Transactors - a programming model for maintaining globally consistent distributed state in unreliable environments." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "POPL" ;
+        SO:has_year    "2005" .
+
+SR:article3054976  a   SR:Article ;
+        SO:has_author  "Mahmoud Nassar" ;
+        SO:has_id      "3054976" ;
+        SO:has_title   "Consistent Integration of Models Based on Views of Visual Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2008" .
+
+SR:article2920719  a   SR:Article ;
+        SO:has_author  "Sophie Ebersold" ;
+        SO:has_id      "2920719" ;
+        SO:has_title   "Consistency, Independence and Consequences in UML and OCL Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "TAP" ;
+        SO:has_year    "2009" .
+
+SR:article2389546  a   SR:Article ;
+        SO:has_author  "Marsha Chechik" ;
+        SO:has_id      "2389546" ;
+        SO:has_title   "Formalizing model consistency based on the abstract syntax." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "EICS" ;
+        SO:has_year    "2011" .
+
+SR:article2356263  a   SR:Article ;
+        SO:has_author  "Steve M. Easterbrook" ;
+        SO:has_id      "2356263" ;
+        SO:has_title   "Consistency Checks for Duties in Extended UML2 Activity Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ARES" ;
+        SO:has_year    "2011" .
+
+SR:article1418279  a   SR:Article ;
+        SO:has_author  "Jan Martijn E. M. van der Werf" ;
+        SO:has_id      "1418279" ;
+        SO:has_title   "Building consistent transactions with inconsistent replication." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SOSP" ;
+        SO:has_year    "2015" .
+
+SR:article4346495  a   SR:Article ;
+        SO:has_author  "Jeffrey M. Voas" ;
+        SO:has_id      "4346495" ;
+        SO:has_title   "Investigating rare-event failure tolerance - reductions in future uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "1996" .
+
+SR:article4040074  a   SR:Article ;
+        SO:has_author  "Kevin E. Dorow" ;
+        SO:has_id      "4040074" ;
+        SO:has_title   "Low-Cost Flexible Software Fault Tolerance for Distributed Computing." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2001" .
+
+SR:article1028860  a   SR:Article ;
+        SO:has_author  "Jasper Schenkhuizen" ;
+        SO:has_id      "1028860" ;
+        SO:has_title   "Consistent Inconsistency Management - A Concern-Driven Approach." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ECSA" ;
+        SO:has_year    "2016" .
+
+SR:article804630  a    SR:Article ;
+        SO:has_author  "Iris Groher" ;
+        SO:has_id      "804630" ;
+        SO:has_title   "Ogre and Pythia - an invariance proof method for weak consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "POPL" ;
+        SO:has_year    "2017" .
+
+SR:article392731  a    SR:Article ;
+        SO:has_author  "Alexander Egyed" ;
+        SO:has_id      "392731" ;
+        SO:has_title   "AHM - Handling Heterogeneous Models Matching and Consistency via MDE." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ENASE" ;
+        SO:has_year    "2018" .
+
+SR:article3300826  a   SR:Article ;
+        SO:has_author  "Bernard Coulette" ;
+        SO:has_id      "3300826" ;
+        SO:has_title   "On the Collaborative Development of Para-Consistent Conceptual Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2007" .
+
+SR:article3712576  a   SR:Article ;
+        SO:has_author  "Bruno Silva 0001" ;
+        SO:has_id      "3712576" ;
+        SO:has_title   "Model Checking a Fault-Tolerant Startup Algorithm - From Design Exploration To Exhaustive Fault Simulation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "DSN" ;
+        SO:has_year    "2004" .
+
+SR:article2685115  a   SR:Article ;
+        SO:has_author  "Brice Morin" ;
+        SO:has_id      "2685115" ;
+        SO:has_title   "Flexible Model Element Introduction Policies for Aspect-Oriented Modeling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2010" .
+
+SR:article3418320  a   SR:Article ;
+        SO:has_author  "Bernhard Schätz" ;
+        SO:has_id      "3418320" ;
+        SO:has_title   "Modeling and Evaluating the Survivability of an Intrusion Tolerant Database System." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ESORICS" ;
+        SO:has_year    "2006" .
+
+SR:article2458745  a   SR:Article ;
+        SO:has_author  "Olivier Giroux" ;
+        SO:has_id      "2458745" ;
+        SO:has_title   "Semantically Configurable Consistency Analysis for Class and Object Diagrams." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2011" .
+
+SR:article4721152  a   SR:Article ;
+        SO:has_author  "Daniel F. Fitch" ;
+        SO:has_id      "4721152" ;
+        SO:has_title   "Analytical Modelling of the Reliability of a Fault-Tolerant Computer-Copra." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "Performance" ;
+        SO:has_year    "1977" .
+
+SR:article1378637  a   SR:Article ;
+        SO:has_author  "Bran Selic" ;
+        SO:has_id      "1378637" ;
+        SO:has_title   "ArMOR - defending against memory consistency model mismatches in heterogeneous architectures." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISCA" ;
+        SO:has_year    "2015" .
+
+SR:article2466464  a   SR:Article ;
+        SO:has_author  "Hendrik Decker" ;
+        SO:has_id      "2466464" ;
+        SO:has_title   "Data Quality Maintenance by Integrity-Preserving Repairs that Tolerate Inconsistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2011" .
+
+SR:article726969  a    SR:Article ;
+        SO:has_author  "Wolfgang Heider" ;
+        SO:has_id      "726969" ;
+        SO:has_title   "Inter-model Consistency Checking Using Triple Graph Grammars and Linear Optimization Techniques." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "FASE" ;
+        SO:has_year    "2017" .
+
+SR:article430566  a    SR:Article ;
+        SO:has_author  "Hans Vangheluwe" ;
+        SO:has_id      "430566" ;
+        SO:has_title   "An automated and instant discovery of concrete repairs for model inconsistencies." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2018" .
+
+SR:article2357009  a   SR:Article ;
+        SO:has_author  "Vasileios Tenentes" ;
+        SO:has_id      "2357009" ;
+        SO:has_title   "Extended neglect tolerance model & human robot teams." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICICS" ;
+        SO:has_year    "2011" .
+
+SR:article2210629  a   SR:Article ;
+        SO:has_author  "Marcel Heinz" ;
+        SO:has_id      "2210629" ;
+        SO:has_title   "Incremental Consistency Checking for Complex Design Rules and Larger Model Changes." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article796995  a    SR:Article ;
+        SO:has_author  "István Dávid" ;
+        SO:has_id      "796995" ;
+        SO:has_title   "Modeling and Enactment Support for Early Detection of Inconsistencies in Engineering Processes." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MODELS" ;
+        SO:has_year    "2017" .
+
+SR:article1870790  a   SR:Article ;
+        SO:has_author  "Pierre Kelsen" ;
+        SO:has_id      "1870790" ;
+        SO:has_title   "DBPowder - A Flexible Object-Relational Mapping Framework Based on a Conceptual Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2013" .
+
+SR:article4519081  a   SR:Article ;
+        SO:has_author  "Roland Kretschmer" ;
+        SO:has_id      "4519081" ;
+        SO:has_title   "Prototyping an Inconsistency Checking Tool for Software Process Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "1992" .
+
+SR:article3249851  a   SR:Article ;
+        SO:has_author  "Wafa Gabsi" ;
+        SO:has_id      "3249851" ;
+        SO:has_title   "Pattern-Based Modeling and Analysis of Failsafe Fault-Tolerance in UML." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2007" .
+
+SR:article3477690  a   SR:Article ;
+        SO:has_author  "Dániel Varró" ;
+        SO:has_id      "3477690" ;
+        SO:has_title   "Specifying Consistency Constraints for Modelling Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEKE" ;
+        SO:has_year    "2006" .
+
+SR:article161287  a    SR:Article ;
+        SO:has_author  "Alessio Di Sandro" ;
+        SO:has_id      "161287" ;
+        SO:has_title   "Test Model Coverage Analysis Under Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SEFM" ;
+        SO:has_year    "2019" .
+
+SR:article2428966  a   SR:Article ;
+        SO:has_author  "Haiyan Zhao" ;
+        SO:has_id      "2428966" ;
+        SO:has_title   "Inconsistency management framework for model-based development." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2011" .
+
+SR:article3474022  a   SR:Article ;
+        SO:has_author  "Michael Armbruster" ;
+        SO:has_id      "3474022" ;
+        SO:has_title   "Use Case-Based Modeling and Analysis of Failsafe Fault-Tolerance." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RE" ;
+        SO:has_year    "2006" .
+
+SR:article783280  a    SR:Article ;
+        SO:has_author  "Hui Song" ;
+        SO:has_id      "783280" ;
+        SO:has_title   "Models of Reliability of Fault-Tolerant Software Under Cyber-Attacks." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ISSRE" ;
+        SO:has_year    "2017" .
+
+SR:article2901057  a   SR:Article ;
+        SO:has_author  "Juergen Etzlstorfer" ;
+        SO:has_id      "2901057" ;
+        SO:has_title   "An Incremental Algorithm for High-Performance Runtime Model Consistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2009" .
+
+SR:article1883853  a   SR:Article ;
+        SO:has_author  "Leen Lambers" ;
+        SO:has_id      "1883853" ;
+        SO:has_title   "Heterogeneous Models Matching for Consistency Management." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ENASE" ;
+        SO:has_year    "2013" .
+
+SR:article1922518  a   SR:Article ;
+        SO:has_author  "Enrico Frumento" ;
+        SO:has_id      "1922518" ;
+        SO:has_title   "VERA - A Flexible Model-Based Vulnerability Testing Tool." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICST" ;
+        SO:has_year    "2013" .
+
+SR:article1043964  a   SR:Article ;
+        SO:has_author  "Ying Zhang 0012" ;
+        SO:has_id      "1043964" ;
+        SO:has_title   "Model Checking for the Fault Tolerance of Collaborative AUVs." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2016" .
+
+SR:article3105869  a   SR:Article ;
+        SO:has_author  "Elisabeth Kapsammer" ;
+        SO:has_id      "3105869" ;
+        SO:has_title   "Sufficient Criteria for Consistent Behavior Modeling with Refined Activity Diagrams." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2008" .
+
+SR:article999234  a    SR:Article ;
+        SO:has_author  "Florian Noyrit" ;
+        SO:has_id      "999234" ;
+        SO:has_title   "Observation-Based Concurrent Program Logic for Relaxed Memory Consistency Models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "APLAS" ;
+        SO:has_year    "2016" .
+
+SR:article3223677  a   SR:Article ;
+        SO:has_author  "Mahmoud El Hamlaoui" ;
+        SO:has_id      "3223677" ;
+        SO:has_title   "Consistent Modeling, Integration and Simulation of Molecular Interaction Networks in Space-Time Dimension." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "BIBE" ;
+        SO:has_year    "2007" .
+
+SR:article3080155  a   SR:Article ;
+        SO:has_author  "Bernard Coulette" ;
+        SO:has_id      "3080155" ;
+        SO:has_title   "Global consistency checking of distributed models with TReMer+." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2008" .
+
+SR:article378705  a    SR:Article ;
+        SO:has_author  "Marsha Chechik" ;
+        SO:has_id      "378705" ;
+        SO:has_title   "Towards Modelling and Reasoning About Uncertain Data of Sensor Measurements for Decision Support in Smart Spaces." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "2018" .
+
+SR:article2136296  a   SR:Article ;
+        SO:has_author  "Shiva Nejati" ;
+        SO:has_id      "2136296" ;
+        SO:has_title   "Constraint-Based Consistency Checking between Design Decisions and Component Models for Supporting Software Architecture Evolution." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CSMR" ;
+        SO:has_year    "2012" .
+
+SR:article4596855  a   SR:Article ;
+        SO:has_author  "Louise E. Moser" ;
+        SO:has_id      "4596855" ;
+        SO:has_title   "Leases - An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SOSP" ;
+        SO:has_year    "1989" .
+
+SR:article1952192  a   SR:Article ;
+        SO:has_author  "Romina Eramo" ;
+        SO:has_id      "1952192" ;
+        SO:has_title   "Transformation of Models Containing Uncertainty." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2013" .
+
+SR:article2693743  a   SR:Article ;
+        SO:has_author  "Wei Zhang 0004" ;
+        SO:has_id      "2693743" ;
+        SO:has_title   "Techne - Towards a New Generation of Requirements Modeling Languages with Goals, Preferences, and Inconsistency Handling." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "RE" ;
+        SO:has_year    "2010" .
+
+SR:article4565741  a   SR:Article ;
+        SO:has_author  "Michael Poppleton" ;
+        SO:has_id      "4565741" ;
+        SO:has_title   "Modeling execution time of multi-stage N-version fault-tolerant software." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "COMPSAC" ;
+        SO:has_year    "1990" .
+
+SR:article2210561  a   SR:Article ;
+        SO:has_author  "Zhenjiang Hu" ;
+        SO:has_id      "2210561" ;
+        SO:has_title   "Evaluating the Impact of Aspects on Inconsistency Detection Effort - A Controlled Experiment." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MoDELS" ;
+        SO:has_year    "2012" .
+
+SR:article430840  a    SR:Article ;
+        SO:has_author  "Paul Grünbacher" ;
+        SO:has_id      "430840" ;
+        SO:has_title   "A graph solver for the automated generation of consistent domain-specific models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "2018" .
+
+SR:article2377127  a   SR:Article ;
+        SO:has_author  "Gianni Rosa" ;
+        SO:has_id      "2377127" ;
+        SO:has_title   "Modeling the Uncertain Data in the K-anonymity Privacy Protection Model." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "CIS" ;
+        SO:has_year    "2011" .
+
+SR:article4543652  a   SR:Article ;
+        SO:has_author  "Robert Balzer" ;
+        SO:has_id      "4543652" ;
+        SO:has_title   "Tolerating Inconsistency." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ICSE" ;
+        SO:has_year    "1991" .
+
+SR:article1043959  a   SR:Article ;
+        SO:has_author  "François Terrier" ;
+        SO:has_id      "1043959" ;
+        SO:has_title   "Runtime Adjustment of Configuration Models for Consistency Preservation." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "HASE" ;
+        SO:has_year    "2016" .
+
+SR:article1393657  a   SR:Article ;
+        SO:has_author  "Christian Schwarzl" ;
+        SO:has_id      "1393657" ;
+        SO:has_title   "Efficient GPU synchronization without scopes - saying no to complex consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "MICRO" ;
+        SO:has_year    "2015" .
+
+SR:article2470352  a   SR:Article ;
+        SO:has_author  "William Excoffon" ;
+        SO:has_id      "2470352" ;
+        SO:has_title   "Modeling and tolerating heterogeneous failures in large parallel systems." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SC" ;
+        SO:has_year    "2011" .
+
+SR:article804691  a    SR:Article ;
+        SO:has_author  "Alexander Egyed" ;
+        SO:has_id      "804691" ;
+        SO:has_title   "Automatically comparing memory consistency models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "POPL" ;
+        SO:has_year    "2017" .
