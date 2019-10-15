@@ -1,0 +1,57 @@
+@prefix RDFLABEL: <http://www.w3.org/2000/01/rdf-schema#label> .
+@prefix SO:    <http://dblp.org/ontology#> .
+@prefix SR:    <http://dblp.org/resource#> .
+
+SR:article2678180  a   SR:Article ;
+        SO:has_author  "Michael VierhauserPaul GrünbacherAlexander EgyedRick RabiserWolfgang Heider" ;
+        SO:has_id      "2678180" ;
+        SO:has_title   "Flexible and scalable consistency checking on product line variability models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2010" .
+@prefix RDFLABEL: <http://www.w3.org/2000/01/rdf-schema#label> .
+@prefix SO:    <http://dblp.org/ontology#> .
+@prefix SR:    <http://dblp.org/resource#> .
+
+SR:article2678180  a   SR:Article ;
+        SO:has_author  "Michael VierhauserPaul GrünbacherAlexander EgyedRick RabiserWolfgang Heider" ;
+        SO:has_id      "2678180" ;
+        SO:has_title   "Flexible and scalable consistency checking on product line variability models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2010" .
+
+SR:article2693460  a   SR:Article ;
+        SO:has_author  "Kazunori SakamotoHironori WashizakiYoshiaki Fukazawa" ;
+        SO:has_id      "2693460" ;
+        SO:has_title   "Open Code Coverage Framework - A Consistent and Flexible Framework for Measuring Test Coverage Supporting Multiple Programming Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2010" .
+@prefix RDFLABEL: <http://www.w3.org/2000/01/rdf-schema#label> .
+@prefix SO:    <http://dblp.org/ontology#> .
+@prefix SR:    <http://dblp.org/resource#> .
+
+SR:article2678180  a   SR:Article ;
+        SO:has_author  "Michael VierhauserPaul GrünbacherAlexander EgyedRick RabiserWolfgang Heider" ;
+        SO:has_id      "2678180" ;
+        SO:has_title   "Flexible and scalable consistency checking on product line variability models." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "ASE" ;
+        SO:has_year    "2010" .
+
+SR:article4310545  a   SR:Article ;
+        SO:has_author  "Karin PetersenMike SpreitzerDouglas B. TerryMarvin TheimerAlan J. Demers" ;
+        SO:has_id      "4310545" ;
+        SO:has_title   "Flexible Update Propagation for Weakly Consistent Replication." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "SOSP" ;
+        SO:has_year    "1997" .
+
+SR:article2693460  a   SR:Article ;
+        SO:has_author  "Kazunori SakamotoHironori WashizakiYoshiaki Fukazawa" ;
+        SO:has_id      "2693460" ;
+        SO:has_title   "Open Code Coverage Framework - A Consistent and Flexible Framework for Measuring Test Coverage Supporting Multiple Programming Languages." ;
+        SO:has_type    "Conference and Workshop Papers" ;
+        SO:has_venue   "QSIC" ;
+        SO:has_year    "2010" .
