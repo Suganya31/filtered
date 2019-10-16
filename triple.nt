@@ -1,0 +1,2 @@
+<http://example/book1> dc:title "A new book" ;
+                         dc:creator "A.N.Other" .
