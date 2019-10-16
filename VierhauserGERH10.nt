@@ -1,0 +1,21 @@
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema-2017-04-18#Publication> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <http://www.w3.org/2002/07/owl#sameAs> <https://doi.org/10.1145/1858996.1859009> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#title> "Flexible and scalable consistency checking on product line variability models." .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#bibtexType> <http://data.bibbase.org/ontology/#Inproceedings> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#publicationType> <https://dblp.org/rdf/schema-2017-04-18#Inproceedings> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#authoredBy> <https://dblp.org/pers/v/Vierhauser:Michael> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#authoredBy> <https://dblp.org/pers/g/Gr=uuml=nbacher:Paul> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#authoredBy> <https://dblp.org/pers/e/Egyed:Alexander> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#authoredBy> <https://dblp.org/pers/r/Rabiser:Rick> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#authoredBy> <https://dblp.org/pers/h/Heider:Wolfgang> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#primaryElectronicEdition> <https://doi.org/10.1145/1858996.1859009> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#listedOnTocPage> <https://dblp.org/db/conf/kbse/ase2010> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#publishedInBook> "ASE" .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#pageNumbers> "63-72" .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#yearOfPublication> "2010" .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10> <https://dblp.org/rdf/schema-2017-04-18#publishedAsPartOf> <https://dblp.org/rec/conf/kbse/2010> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10.nt> <http://www.w3.org/2000/01/rdf-schema#label> "provenance information for RDF data of dblp record 'conf/kbse/VierhauserGERH10'" .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10.nt> <http://purl.org/dc/terms/creator> <https://dblp.org> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10.nt> <http://purl.org/dc/terms/isPartOf> <https://dblp.org/rdf/dblp.nt> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10.nt> <http://purl.org/dc/terms/license> <https://opendatacommons.org/licenses/by/1.0/> .
+<https://dblp.org/rec/conf/kbse/VierhauserGERH10.nt> <http://purl.org/dc/terms/modified> "2018-11-06T16:58:23+0100" .
